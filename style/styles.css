@@ -1,0 +1,40 @@
+body {
+    padding: 20px;
+}
+
+column {
+    height: 100px;
+    min-height: 100px;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#col-left {
+    width: 50%;
+}
+
+#col-right {
+    width: 50%;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid lightgrey;
+    box-sizing: border-box;
+    margin: 0px;
+    max-width: 200px;
+    min-width: 50px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td:has(.file) {
+    text-align: center !important;
+}
+
+.file {
+    text-align: center;
+}
