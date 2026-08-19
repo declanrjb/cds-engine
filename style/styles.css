@@ -38,3 +38,87 @@ td:has(.file) {
 .file {
     text-align: center;
 }
+
+.content {
+    width: 800px;
+    margin: auto;
+}
+
+.data-table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.data-heading {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.data-table table {
+    width: 100%;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+tr:nth-child(1) {
+    border-bottom: 2px solid black;
+}
+
+td {
+    border: none;
+}
+
+.data-heading {
+    font-size: 1.5em;
+    height: 50px;
+    position: relative;
+}
+
+.table-code {
+    background-color: #1f487e;
+    color: white;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    aspect-ratio: 1/1;
+    width: fit-content;
+    float: left;
+    padding-top: 12px;
+    box-sizing: border-box;
+}
+
+.data-block {
+    margin-bottom: 40px;
+}
+
+.table-title {
+    float: left;
+    bottom: 0;
+    left: 60px;
+    position: absolute;
+    font-size: 0.9em;
+}
+
+.separator {
+    margin-bottom: 60px;
+}
+
+.download-button {
+    width: 100px;
+    height: 20px;
+    position: relative;
+    right: 0;
+    float: right;
+    margin-top: 10px;
+    text-align: right;
+    font-weight: bold;
+    color: grey;
+}
+
+.download-button:hover {
+    color: darkblue;
+    cursor: pointer;
+}
