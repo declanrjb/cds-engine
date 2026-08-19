@@ -2,7 +2,7 @@ $(document).ready(function(){
     console.log('hello world')
     $.getJSON('web-app/data.json', function(data) {
         $.each(data['236328'], function(index, entry) {
-            var data_block = $('<div class="data-block"></div>').appendTo('.content')
+            var data_block = $('<div class="data-block"></div>').appendTo('.parsed-doc')
             var data_heading = $('<div class="data-heading"></div>').appendTo(data_block)
             var table_code = $('<div class="table-code">' + entry['table_code'] + '</span>').appendTo(data_heading)
             var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)

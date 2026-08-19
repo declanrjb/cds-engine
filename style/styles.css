@@ -1,13 +1,11 @@
-body {
-    padding: 20px;
-}
+
 
 column {
-    height: 100px;
+    height: fit-content;
     min-height: 100px;
     float: left;
     box-sizing: border-box;
-    padding: 10px;
+    padding: 20px;
 }
 
 #col-left {
@@ -121,4 +119,26 @@ td {
 .download-button:hover {
     color: darkblue;
     cursor: pointer;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.num-bubble {
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sticky-widget {
+    position: fixed;
+    width: 40%;
+}
+
+p {
+    margin-right: 40px;
 }
