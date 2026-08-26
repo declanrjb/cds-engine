@@ -4,25 +4,47 @@
     <title>CDS Engine</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="style/styles.css">
+    <link rel="stylesheet" href="web-app/styles.css">
     <link rel="shortcut icon" type="image/x-icon" href="">
     <script src="https://kit.fontawesome.com/bb1d08a9b2.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.14.2/jquery-ui.js"></script>
+    <script src="https://public.flourish.studio/resources/embed.js"></script>
     <script src="web-app/script.js"></script>
 </head>
 <body>
     <column style="width: 40%;">
         <div class="sticky-widget">
             <div class="engine-info">
-                <h1 class="page-title">Common Data Set Explorer</h1>
-                <div class="meta-stats"><span class="num-docs num-bubble">5,000 Documents</span> <span class="num-institutions num-bubble">1,000 Institutions</span> <span class="num-years num-bubble">53 Years of Data</span></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec porta arcu, a placerat ipsum. Proin vitae nulla neque. Nunc faucibus diam at imperdiet auctor. Nam sodales ut ex a porttitor. Mauris eu dolor lorem. Aenean neque risus, feugiat eget scelerisque vel, egestas in nunc. Maecenas tempus molestie suscipit. Mauris interdum, augue eu lobortis accumsan, leo odio iaculis urna, maximus pellentesque metus felis ac ligula. Etiam vitae nulla lorem. </p>
+                <div class="cds-explorer-flag">Common Data Set Explorer</div>
+                <h1 class="inst-name">University of Michigan</h1>
+                <!--<div class="meta-stats"><span class="num-docs num-bubble">5,000 Documents</span> <span class="num-institutions num-bubble">1,000 Institutions</span> <span class="num-years num-bubble">53 Years of Data</span></div>-->
+                <p class="institution-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec porta arcu, a placerat ipsum. Proin vitae nulla neque. Nunc faucibus diam at imperdiet auctor.</p>
             </div>
+            <div class="display-controls">
+                <select name="year" id="year-select">
+                    <option>2025-26</option>
+                    <option>2024-25</option>
+                    <option>2023-24</option>
+                    <option>2022-23</option>
+                    <option>2021-22</option>
+                </select>
+                <select name="year" id="year-select">
+                    <option>All</option>
+                    <option>Admissions</option>
+                    <option>Enrollment</option>
+                    <option>Finances</option>
+                </select>
+            </div>
+            <div class="flourish-embed flourish-table" data-src="visualisation/29919197"><noscript><img src="https://public.flourish.studio/visualisation/29919197/thumbnail" width="100%" alt="table visualization" /></noscript></div>           
         </div>
-
     </column>
     <column style="width: 60%;">
+        <div class="no-results-banner">
+            <p class="no-results-disclaimer">There isn't a CDS here. Would you like to add one?</p>
+        </div>
         <div class="parsed-doc"></div>
     </column>
 </body>

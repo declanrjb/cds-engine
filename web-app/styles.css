@@ -1,0 +1,193 @@
+
+
+column {
+    height: fit-content;
+    min-height: 100px;
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#col-left {
+    width: 50%;
+}
+
+#col-right {
+    width: 50%;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid lightgrey;
+    box-sizing: border-box;
+    margin: 0px;
+    max-width: 200px;
+    min-width: 50px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td:has(.file) {
+    text-align: center !important;
+}
+
+.file {
+    text-align: center;
+}
+
+.content {
+    width: 800px;
+    margin: auto;
+}
+
+.data-table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.data-heading {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.data-table table {
+    width: 100%;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+tr:nth-child(1) {
+    border-bottom: 2px solid black;
+}
+
+td {
+    border: none;
+}
+
+.data-heading {
+    font-size: 1.5em;
+    height: 50px;
+    position: relative;
+}
+
+.table-code {
+    background-color: #1f487e;
+    color: white;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    aspect-ratio: 1/1;
+    width: fit-content;
+    float: left;
+    padding-top: 12px;
+    box-sizing: border-box;
+}
+
+.data-block {
+    margin-bottom: 40px;
+}
+
+.table-title {
+    float: left;
+    bottom: 0;
+    left: 60px;
+    position: absolute;
+    font-size: 0.9em;
+}
+
+.separator {
+    margin-bottom: 60px;
+}
+
+.download-button {
+    width: 100px;
+    height: 20px;
+    position: relative;
+    right: 0;
+    float: right;
+    margin-top: 10px;
+    text-align: right;
+    font-weight: bold;
+    color: grey;
+}
+
+.download-button:hover {
+    color: darkblue;
+    cursor: pointer;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.num-bubble {
+    border-radius: 10px;
+    background-color: #1f487e;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sticky-widget {
+    position: fixed;
+    width: 40%;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.ui-selectmenu-button {
+    background-color: white !important;
+}
+
+.display-controls .ui-widget {
+    width: calc(50% - 50px) !important;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.cds-explorer-flag {
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.inst-name {
+    margin-top: 10px;
+    background-color: #1f487e;
+    color: white;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: fit-content;
+}
+
+.institution-description {
+    margin-bottom: 10px;
+}
+
+.flourish-embed {
+    width: calc(100% + 20px);
+    margin-left: -10px;
+}
+
+.no-results-banner {
+    display: none;
+    width: 100%;
+    border: 3px solid lightgrey;
+    min-height: 200px;
+    border-radius: 20px;
+    border-style: dotted;
+}
+
+.no-results-banner p {
+    text-align: center;
+    margin-top: 80px;
+}
