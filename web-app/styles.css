@@ -146,7 +146,6 @@ h1 {
 }
 
 .display-controls .ui-widget {
-    width: calc(50% - 50px) !important;
     margin-right: 10px;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -160,13 +159,16 @@ h1 {
 
 .inst-name {
     margin-top: 10px;
-    background-color: #1f487e;
-    color: white;
+    background-color: white;
+    color: black;
     padding-right: 12px;
     padding-left: 12px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: calc(100% - 3px);
+    border: 3px solid #1f487e;
+    box-sizing: border-box;
+    font-size: 1.8em;
 }
 
 .institution-description {
@@ -190,4 +192,13 @@ h1 {
 .no-results-banner p {
     text-align: center;
     margin-top: 80px;
+}
+
+#section-select-button {
+    margin-right: 0px !important;
+    width: calc(70% - 43px) !important;
+}
+
+#year-select-button {
+    width: calc(30% - 43px) !important;
 }

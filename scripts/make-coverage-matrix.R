@@ -3,6 +3,14 @@ library(kableExtra)
 
 git_base_link <- 'https://github.com/declanrjb/cds-engine/blob/main/'
 
+trim_string <- function(string, limit) {
+  if (str_length(string) > limit) {
+    string <- substr(string, 0, limit - 3)
+    string <- paste(string, '...', sep='')
+  }
+  return(string)
+}
+
 files <- list.files('data/cds-docs', recursive=TRUE, full.names=TRUE)
 directory <- read_csv('data/ipeds/hd2025.csv')
 directory <- directory |> 
@@ -38,12 +46,18 @@ files$anchor <- files$url |>
 
 files <- files |>
   mutate(
-    INSTNM = paste(INSTNM, ' (', STABBR, ')', sep=''),
+    INSTNM = paste(INSTNM, ' (', STABBR, ')', sep='') |>
+      lapply(trim_string, 42)
+  )
+
+files <- files |>
+  mutate(
+    INSTNM = paste('<a href="http://localhost:5500/?unitid=', unitid, '">', INSTNM, '</a>', sep='')
   )
 
 export_table <- files |>
   filter(year != 'no') |>
-  filter(year >= 2020) |>
+  filter(year >= 2021) |>
   select(INSTNM, year, anchor) |> 
   group_by(INSTNM, year) |>
   summarize(anchor = first(anchor)) |>

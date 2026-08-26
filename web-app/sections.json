@@ -1,0 +1,49 @@
+{
+    "sections": [
+        {
+            "code": "A",
+            "div-label": "section-a",
+            "nicename": "A. General Information"
+        },
+        {
+            "code": "B",
+            "div-label": "section-b",
+            "nicename": "B. Enrollment and Persistence"
+        },
+        {
+            "code": "C",
+            "div-label": "section-c",
+            "nicename": "C. First-Time, First-Year Admission"
+        },
+        {
+            "code": "D",
+            "div-label": "section-d",
+            "nicename": "D. Transfer Admission"
+        },
+        {
+            "code": "E",
+            "div-label": "section-e",
+            "nicename": "E. Academic Offerings and Policies"
+        },
+        {
+            "code": "G",
+            "div-label": "section-g",
+            "nicename": "G. Annual Expenses"
+        },
+        {
+            "code": "H",
+            "div-label": "section-h",
+            "nicename": "H. Financial Aid"
+        },
+        {
+            "code": "I",
+            "div-label": "section-i",
+            "nicename": "I. Instructional Faculty and Class Size"
+        },
+        {
+            "code": "J",
+            "div-label": "section-j",
+            "nicename": "J. Disclinary Areas of Degrees Conferred"
+        }
+    ]
+}
