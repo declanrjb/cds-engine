@@ -202,3 +202,53 @@ h1 {
 #year-select-button {
     width: calc(30% - 43px) !important;
 }
+
+.doc-embed {
+    width: 100%;
+    min-height: 680px;
+    display: none;
+}
+
+.view-button {
+    float: right;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    font-size: 1.2em;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding-top: 12px;
+}
+
+.view-button[selected="selected"] {
+    background-color: black;
+    color: white;
+}
+
+.view-button[selected=""] {
+    background-color: white;
+    color: black;
+}
+
+#raw-file-view {
+    border-bottom-right-radius: 10px;
+}
+
+#parsed-file-view {
+    border-top-left-radius: 10px;
+}
+
+.view-type-selector {
+    height: fit-content;
+    width: 20px;
+    float: right;
+    border-radius: 10px;
+    background-color: white;
+    background: white;
+    position: relative;
+    z-index: 99;
+    margin-bottom: 20px;
+}

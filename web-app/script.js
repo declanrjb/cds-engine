@@ -3,12 +3,20 @@ $(document).ready(function(){
     function showNoResults() {
         console.log('no results')
         $('.no-results-banner').css('display', 'block')
-        $('.parsed-doc').css('display', 'none')
+        if ($('#parsed-file-view').attr('selected') == 'selected'){
+            $('.parsed-doc').css('display', 'none')
+        } else {
+            $('.doc-embed').css('display', 'none')
+        }
     }
 
     function showResults() {
         $('.no-results-banner').css('display', 'none')
-        $('.parsed-doc').css('display', 'block')
+        if ($('#parsed-file-view').attr('selected') == 'selected'){
+            $('.parsed-doc').css('display', 'block')
+        } else {
+            $('.doc-embed').css('display', 'block')
+        }
     }
 
     function updatePage(data) {
@@ -29,6 +37,7 @@ $(document).ready(function(){
             var year = $('#year-select').val()
 
             if (year in collegeData['years']) {
+                $('.doc-embed').attr('src', collegeData['years'][year]['file'])
                 var tables = collegeData['years'][year]['parsed_tables']
                 $.each(tables, function(index, entry) {
                     var data_block = $('<div class="data-block section section-' + entry['section'].toLowerCase() + '"></div>').appendTo('.parsed-doc')
@@ -77,8 +86,21 @@ $(document).ready(function(){
         updatePage(data)
 
         $('#year-select').on('selectmenuchange', function(e) {
-            console.log(e)
             updatePage(data)
+        })
+
+        $('#raw-file-view').on('click', function() {
+            $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
+            $(this).css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
+            $('.parsed-doc').css('display', 'none')
+            $('.doc-embed').css('display', 'block')
+        })
+
+        $('#parsed-file-view').on('click', function() {
+            $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
+            $(this).css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
+            $('.parsed-doc').css('display', 'block')
+            $('.doc-embed').css('display', 'none')
         })
     });
 
