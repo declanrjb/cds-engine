@@ -252,3 +252,17 @@ h1 {
     z-index: 99;
     margin-bottom: 20px;
 }
+
+.big-number {
+    text-decoration: underline 2px solid #1f487e;
+}
+
+a {
+    font-weight: bold;
+    color: #1f487e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}

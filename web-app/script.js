@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     function showNoResults() {
-        console.log('no results')
+        $('.display-controls').css('display', 'none')
         $('.no-results-banner').css('display', 'block')
         if ($('#parsed-file-view').attr('selected') == 'selected'){
             $('.parsed-doc').css('display', 'none')
@@ -11,6 +11,7 @@ $(document).ready(function(){
     }
 
     function showResults() {
+        $('.display-controls').css('display', 'block')
         $('.no-results-banner').css('display', 'none')
         if ($('#parsed-file-view').attr('selected') == 'selected'){
             $('.parsed-doc').css('display', 'block')
