@@ -82,8 +82,11 @@ $(document).ready(function(){
 
     // 2. Parse the parameters using URLSearchParams
     const urlParams = new URLSearchParams(queryString);
+    var dataUrl = 'web-app/colleges/' + urlParams.get('unitid') + '.json'
+    // var dataUrl = 'web-app/colleges/100663.json';
 
-    $.getJSON('web-app/data.json', function(data) {
+    $.getJSON(dataUrl, function(data) {
+        console.log(data)
         updatePage(data)
 
         $('#year-select').on('selectmenuchange', function(e) {
@@ -104,6 +107,7 @@ $(document).ready(function(){
             $('.doc-embed').css('display', 'none')
         })
     });
+    console.log('hello world')
 
     $('#pagination').css('display', 'none')
 }); 
