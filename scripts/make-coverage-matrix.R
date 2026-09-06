@@ -58,10 +58,10 @@ files <- files |>
 export_table <- files |>
   filter(year != 'no') |>
   filter(year >= 2021) |>
-  select(INSTNM, year, anchor) |> 
-  group_by(INSTNM, year) |>
+  select(INSTNM, year, anchor, unitid) |> 
+  group_by(INSTNM, unitid, year) |>
   summarize(anchor = first(anchor)) |>
-  pivot_wider(id_cols=c('INSTNM'), names_from='year', values_from='anchor')
+  pivot_wider(id_cols=c('INSTNM', 'unitid'), names_from='year', values_from='anchor')
 
 export_table <- export_table %>%
   replace(is.na(.), 'https://public.flourish.studio/uploads/1447708/28c69406-d4a3-44a0-b2d9-1e6f4212b28a.svg') |>
@@ -69,9 +69,3 @@ export_table <- export_table %>%
 
 export_table |>
   write.csv('data/viz/cds-search.csv', row.names=FALSE)
-
-# export_table |>
-#   head(n=20) |>
-#   kbl(escape=FALSE) |> 
-#   kable_styling() |> 
-#   cat(file = "df.html")
