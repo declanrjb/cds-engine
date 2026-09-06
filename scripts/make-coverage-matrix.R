@@ -52,7 +52,7 @@ files <- files |>
 
 files <- files |>
   mutate(
-    INSTNM = paste('<a href="http://localhost:5500/?unitid=', unitid, '">', INSTNM, '</a>', sep='')
+    INSTNM = paste('<a href="https://declanrjb.github.io/cds-engine/?unitid=', unitid, '">', INSTNM, '</a>', sep='')
   )
 
 export_table <- files |>
