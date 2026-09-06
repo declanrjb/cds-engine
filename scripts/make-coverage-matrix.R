@@ -55,13 +55,20 @@ files <- files |>
     INSTNM = paste('<a href="https://declanrjb.github.io/cds-engine/?unitid=', unitid, '">', INSTNM, '</a>', sep='')
   )
 
+files |>
+  select(unitid, year, file) |>
+  filter(year != 'no') |>
+  filter(year >= 2021) |>
+  mutate(unitid = parse_number(unitid)) |>
+  write.csv('data/file-inventory.csv', row.names=FALSE)
+
 export_table <- files |>
   filter(year != 'no') |>
   filter(year >= 2021) |>
   select(INSTNM, year, anchor, unitid) |> 
-  group_by(INSTNM, unitid, year) |>
+  group_by(INSTNM, year) |>
   summarize(anchor = first(anchor)) |>
-  pivot_wider(id_cols=c('INSTNM', 'unitid'), names_from='year', values_from='anchor')
+  pivot_wider(id_cols=c('INSTNM'), names_from='year', values_from='anchor')
 
 export_table <- export_table %>%
   replace(is.na(.), 'https://public.flourish.studio/uploads/1447708/28c69406-d4a3-44a0-b2d9-1e6f4212b28a.svg') |>
