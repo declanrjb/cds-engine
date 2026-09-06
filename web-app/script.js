@@ -83,7 +83,6 @@ $(document).ready(function(){
     // 2. Parse the parameters using URLSearchParams
     const urlParams = new URLSearchParams(queryString);
     var dataUrl = 'web-app/colleges/' + urlParams.get('unitid') + '.json'
-    // var dataUrl = 'web-app/colleges/100663.json';
 
     $.getJSON(dataUrl, function(data) {
         console.log(data)
