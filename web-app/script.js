@@ -25,34 +25,31 @@ $(document).ready(function(){
         showResults()
         console.log(urlParams.get('unitid'))
         console.log(data)
-        if (urlParams.get('unitid') in data) {
-            var collegeData = data[urlParams.get('unitid')]
 
-            var possible_years = Object.keys(collegeData['years'])
+        var collegeData = data[urlParams.get('unitid')]
 
-            for (i in possible_years) {
-                $('<option>' + possible_years[i] + '</option>').appendTo('#year-select')
-            }
+        var possible_years = Object.keys(collegeData['years'])
 
-            $( "#year-select" ).selectmenu();
+        for (i in possible_years) {
+            $('<option>' + possible_years[i] + '</option>').appendTo('#year-select')
+        }
 
-            $('.inst-name').text(collegeData['INSTNM'])
-            var year = $('#year-select').val()
+        $( "#year-select" ).selectmenu();
 
-            if (year in collegeData['years']) {
-                $('.doc-embed').attr('src', collegeData['years'][year]['file'])
-                var tables = collegeData['years'][year]['parsed_tables']
-                $.each(tables, function(index, entry) {
-                    var data_block = $('<div class="data-block section section-' + entry['section'].toLowerCase() + '"></div>').appendTo('.parsed-doc')
-                    var data_heading = $('<div class="data-heading"></div>').appendTo(data_block)
-                    var table_code = $('<div class="table-code">' + entry['table_code'] + '</span>').appendTo(data_heading)
-                    var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)
-                    var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
-                });
-                $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
-            } else {
-                showNoResults()
-            }
+        $('.inst-name').text(collegeData['INSTNM'])
+        var year = $('#year-select').val()
+
+        if (year in collegeData['years']) {
+            $('.doc-embed').attr('src', collegeData['years'][year]['file'])
+            var tables = collegeData['years'][year]['parsed_tables']
+            $.each(tables, function(index, entry) {
+                var data_block = $('<div class="data-block section section-' + entry['section'].toLowerCase() + '"></div>').appendTo('.parsed-doc')
+                var data_heading = $('<div class="data-heading"></div>').appendTo(data_block)
+                var table_code = $('<div class="table-code">' + entry['table_code'] + '</span>').appendTo(data_heading)
+                var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)
+                var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
+            });
+            $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
         } else {
             showNoResults()
         }
