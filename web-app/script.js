@@ -20,13 +20,9 @@ $(document).ready(function(){
         }
     }
 
-    function updatePage(data) {
+    function updatePage(collegeData) {
         $('.parsed-doc').empty()
         showResults()
-        console.log(urlParams.get('unitid'))
-        console.log(data)
-
-        var collegeData = data[urlParams.get('unitid')]
 
         var possible_years = Object.keys(collegeData['years'])
 
