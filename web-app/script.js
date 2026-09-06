@@ -23,6 +23,8 @@ $(document).ready(function(){
     function updatePage(data) {
         $('.parsed-doc').empty()
         showResults()
+        console.log(urlParams.get('unitid'))
+        console.log(data)
         if (urlParams.get('unitid') in data) {
             var collegeData = data[urlParams.get('unitid')]
 
@@ -83,6 +85,7 @@ $(document).ready(function(){
     // 2. Parse the parameters using URLSearchParams
     const urlParams = new URLSearchParams(queryString);
     var dataUrl = 'web-app/colleges/' + urlParams.get('unitid') + '.json'
+    console.log(dataUrl)
 
     $.getJSON(dataUrl, function(data) {
         console.log(data)
