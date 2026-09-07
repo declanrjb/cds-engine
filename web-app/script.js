@@ -1,3 +1,5 @@
+// https://stackoverflow.com/questions/32228564/html-embedded-pdf-all-links-override-to-open-in-a-new-tab-target-blank
+
 $(document).ready(function(){
 
     function showNoResults() {
@@ -53,7 +55,16 @@ $(document).ready(function(){
 
         if (year in collegeData['years']) {
             // $('.doc-embed').attr('src', collegeData['years'][year]['file'])
-            PDFObject.embed(collegeData['years'][year]['file'], "#doc-embed");
+            var options = {
+                pdfOpenParams: {
+                    page: 1,
+                    view: "Fit",
+                    toolbar: 0
+                },
+                forcePDFJS: true, //*** Forces the use of PDF.js instead of default behavior
+                // PDFJS_URL: "web/viewer.html" //*** Required to use PDF.js
+            };
+            PDFObject.embed(collegeData['years'][year]['file'], "#doc-embed", options);
 
             if ('parsed_tables' in collegeData['years'][year]) {
                 var tables = collegeData['years'][year]['parsed_tables']
