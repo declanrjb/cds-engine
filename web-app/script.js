@@ -53,7 +53,7 @@ $(document).ready(function(){
 
         if (year in collegeData['years']) {
             // $('.doc-embed').attr('src', collegeData['years'][year]['file'])
-            PDFObject.embed("https://something.com/HTC_One_XL_User_Guide.pdf", "#doc-embed");
+            PDFObject.embed(collegeData['years'][year]['file'], "#doc-embed");
 
             if ('parsed_tables' in collegeData['years'][year]) {
                 var tables = collegeData['years'][year]['parsed_tables']
