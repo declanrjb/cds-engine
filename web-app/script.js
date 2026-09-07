@@ -52,7 +52,14 @@ $(document).ready(function(){
         var year = $('#year-select').val()
 
         if (year in collegeData['years']) {
-            $('.doc-embed').attr('src', collegeData['years'][year]['file'])
+            // $('.doc-embed').attr('src', collegeData['years'][year]['file'])
+            var pdf = new PDFObject({
+                url: "https://something.com/HTC_One_XL_User_Guide.pdf",
+                id: "pdfRendered",
+                pdfOpenParams: {
+                    view: "FitH"
+                }
+            }).embed("doc-embed");
 
             if ('parsed_tables' in collegeData['years'][year]) {
                 var tables = collegeData['years'][year]['parsed_tables']
