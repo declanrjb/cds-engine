@@ -63,7 +63,7 @@ $(document).ready(function(){
                     var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)
                     var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
                 });
-                $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
+                // $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
                 showParsed()
             } else {
                 showRaw()
