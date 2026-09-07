@@ -120,7 +120,10 @@ $(document).ready(function(){
 
         $('#parsed-file-view').on('click', showParsed)
     });
-    console.log('passed data load function')
 
     $('#pagination').css('display', 'none')
+
+    $('.kofi-button').on('click', function() {
+        window.location = 'https://ko-fi.com/declanrjb';
+    })
 }); 
