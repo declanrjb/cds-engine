@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4675d9c7f98ddbab8e28811c73f0a3a6a957a1de583f28105d761909e6ed425b
-size 1409
+<!doctype html>
+<html dir="ltr" mozdisallowselectionprint>
+  <head><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PQMP95WB');</script>
+<!-- End Google Tag Manager -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="google" content="notranslate" />
+    <title>PDF.js viewer</title>
+    <link rel="resource" type="application/l10n" href="/src/pdfjs/web/locale/locale.json" />
+    <script src="/src/pdfjs/build/pdf.mjs" type="module"></script>
+    <link rel="stylesheet" href="/src/pdfjs/web/viewer.css" />
+    <script>
+      const PDF_URL = "https://archive.swarthmore.edu/files/assets/documents/institutional-research/cds2013.pdf?__raw=1";
+    </script>
+    <script src="/src/js/pdf-viewer-init.js"></script>
+  </head>
+  <body tabindex="0"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQMP95WB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  </body>
+</html>

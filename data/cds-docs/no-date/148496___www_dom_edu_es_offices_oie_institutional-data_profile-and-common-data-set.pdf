@@ -1,3 +1,1181 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db515ed1a52cf6c0fadffacb82101e4b4bde666abdf0b17ee86bfbad3a2c4cba
-size 50656
+<!DOCTYPE html><html lang="es" dir="ltr"><head>
+  <meta charset="utf-8">
+<link rel="canonical" href="https://www.dom.edu/es/offices/oie/institutional-data/profile-and-common-data-set">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #007BBB} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="icon" href="https://www.dom.edu/themes/custom/dom/assets/favicon.ico" type="image/vnd.microsoft.icon">
+
+    <meta name="google-site-verification" content="24ku89iEDOdEV2f-i2VbE-6APowEyCzfINnFyeOJAKs">
+    <title>Perfil Universitario y Conjunto de Datos Comunes | Dominican University</title>
+    <link rel="stylesheet" href="https://use.typekit.net/mjy4icr.css">
+    <link rel="stylesheet" media="all" href="https://www.dom.edu/sites/default/files/css/css_sh1NWnrZVdT1Y-355iC73yP1vuUBJdQ3lHsMJSNDSSY.css?delta=0&amp;language=en&amp;theme=dom&amp;include=eJxtjlEOgzAMQy9UNUeqQptBRNIg0m5w-7GN_Yz9xPJzLDnj0vKEMKBTyCa2DrZBoRt2aaGYfhLqKZvNTIfoIow1E_yD6VulrQnXGcraF5R42qBc2VasIyVHFfjxEctBgltmlKRUGNOr53BFsU2kFHz3RufMNhwPIyrVfgXediEPd6aHw_tGtdKFntgiZdQ">
+<link rel="stylesheet" media="all" href="https://www.dom.edu/sites/default/files/css/css_y9IEtMOiukYd_Dpc0NdivH1J5Hn7dPSQCHtBfGsdobw.css?delta=1&amp;language=en&amp;theme=dom&amp;include=eJxtjlEOgzAMQy9UNUeqQptBRNIg0m5w-7GN_Yz9xPJzLDnj0vKEMKBTyCa2DrZBoRt2aaGYfhLqKZvNTIfoIow1E_yD6VulrQnXGcraF5R42qBc2VasIyVHFfjxEctBgltmlKRUGNOr53BFsU2kFHz3RufMNhwPIyrVfgXediEPd6aHw_tGtdKFntgiZdQ">
+
+    
+      
+	<!-- Facebook Pixel Code -->
+	<script>	
+	!function(f,b,e,v,n,t,s)		
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?		
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';	
+	n.queue=[];t=b.createElement(e);t.async=!0;	
+	t.src=v;s=b.getElementsByTagName(e)[0];	
+	s.parentNode.insertBefore(t,s)}(window,document,'script',	
+	'https://connect.facebook.net/en_US/fbevents.js');	
+	fbq('init', '1478382638907015');	
+	fbq('track', 'PageView');	
+	</script>
+	<noscript>
+	<img height="1" width="1"
+	src="https://www.facebook.com/tr?id=1478382638907015&ev=PageView
+	&noscript=1"/>
+	</noscript>
+	<!-- End Facebook Pixel Code -->
+	
+	<!-- Global site tag (gtag.js) - AdWords: 1017366393 --> 
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1017366393"></script> 
+	<script> window.dataLayer = window.dataLayer || []; 
+		function gtag(){dataLayer.push(arguments);} 
+		gtag('js', new Date()); 
+		
+		gtag('config', 'AW-1017366393'); 
+	</script>
+	
+	<!-- Google tag (gtag.js) -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZN4EYLEWLV"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'G-ZN4EYLEWLV');
+	</script>
+	
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K6Q96QH');</script>
+	<!-- End Google Tag Manager -->	
+	
+	<!-- Start Visual Website Optimizer Asynchronous Code -->
+	<script type="text/javascript">
+	var _vwo_code=(function(){
+	var account_id=367965,
+	settings_tolerance=2000,
+	library_tolerance=2500,
+	use_existing_jquery=false,
+	/* DO NOT EDIT BELOW THIS LINE */
+	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+	</script>
+	<!-- End Visual Website Optimizer Asynchronous Code -->   
+	
+	<script async="" src="https://explore.dom.edu/ping"></script>   
+      
+      
+</head>
+
+<body class="page-node-51786 path-offices-oie-institutional-data-profile-and-common-data-set sidebar-inactive path--node node-type-page">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6Q96QH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a href="#main" class="visually-hidden focusable">
+  Saltar al contenido principal
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+
+<header id="header" class="header updated">
+
+			
+	<div class="container-fluid constrained-1600">
+		<nav class="navbar navbar-default" role="navigation">
+		
+			<div class="navbar-header">
+
+				<div class="navbar-brand">
+					<img src="https://www.dom.edu/themes/custom/dom/assets/images/logo_125.png" usemap="#image-map" id="logo">
+				</div>
+				
+				<map name="image-map">
+				    <area alt="Dominican University Logo" title="Home" href="/es/" coords="697,183,0,0" shape="rect">
+				    <area alt="125 Years" title="Honoring a 125 Year Legacy" href="/es/about/honoring-125-year-legacy" coords="703,0,998,183" shape="rect">
+				</map>
+				
+				<div class="search-toggles mobile-search visible-xs visible-sm-block">
+					<button type="button" class="search-open" tabindex="0"><i class="fa fa-search"><span class="sr-only">Abrir formulario de búsqueda</span></i></button>
+					  <div class="region region-header-search-bar">
+    <div class="search-block-form navbar-form block block--search" data-drupal-selector="search-block-form" role="search" tabindex="-1">
+  
+  
+      <form action="/es/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-group form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      
+  
+  
+  
+  <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="20" maxlength="128" placeholder="Buscar" class="form-search form-type-search form-control">
+
+
+
+  
+  
+  </div>
+<input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="41594471" class="form-type-hidden form-control">
+
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="7c1tzFi5PLq1b2ldzPjUqRhxkUT_PhNRPQOFMybUlPU" class="form-type-hidden form-control">
+
+<div id="search-actions" data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper"><input id="search-submit" class="search-button button js-form-submit form-submit form-type-submit btn btn-default" data-drupal-selector="edit-submit" type="submit" value="Go">
+
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+					<button type="button" class="search-close hidden" tabindex="0"><i class="fa fa-close"><span class="sr-only">Cerrar formulario de búsqueda</span></i></button>
+				</div>			    
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"><span class="sr-only">Menú de palanca</span></i></button>
+			</div> <!-- /.navbar-header -->
+
+		  <div class="collapse navbar-collapse" id="navbar-collapse">
+
+			
+			<div class="task-bar task-bar-desktop hidden-xs hidden-sm">
+				  <div class="region region-header-task-bar">
+    <div class="block block--quicklinks">
+  
+    
+  <div class="block__content">
+          <style type="text/css">
+  .tbm.animate .tbm-item > .tbm-submenu, .tbm.animate.slide .tbm-item > .tbm-submenu > div {
+    transition-delay: 0ms;  -webkit-transition-delay: 0ms;  -ms-transition-delay: 0ms;  -o-transition-delay: 0ms;  transition-duration: 50ms;  -webkit-transition-duration: 50ms;  -ms-transition-duration: 50ms;  -o-transition-duration: 50ms;
+  }
+</style>
+<nav class="tbm tbm-menu-footer---quick-links tbm-no-arrows animate fading" id="14cc2d8e-8288-40d0-88fe-73e917bbdf3a" data-breakpoint="992" data-duration="50" data-delay="0" aria-label="menu-footer---quick-links navigation">
+      <div class="tbm-collapse ">
+    <ul class="tbm-nav level-0 items-4">
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Información para
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-7">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/admission" class="tbm-link level-2">
+                Futuros estudiantes
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/information-current-students-5" class="tbm-link level-2">
+                Estudiantes actuales
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/node/125696" class="tbm-link level-2">
+                Familias: Padres, Madres y Tutores
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://duconnect.dom.edu/Pages/Home.aspx" class="tbm-link level-2">
+                Profesores y personal
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="http://www.dom.edu/es/alumni/welcome" class="tbm-link level-2">
+                Antiguos Estudiantes
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/university-advancement" class="tbm-link level-2">
+                Donantes
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="http://events.dom.edu" class="tbm-link level-2">
+                Comunidad
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+        <li class="tbm-item level-1" aria-level="1">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/university-advancement/make-a-gift" class="tbm-link level-1">
+                Donar
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-1" aria-level="1">
+      <div class="tbm-link-container">
+            <a href="https://dustars.com/" class="tbm-link level-1">
+                Deportes
+          </a>
+            </div>
+    
+</li>
+
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Enlaces rápidos
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-9">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/university-advancement/make-a-gift" class="tbm-link level-2 visible-xs">
+                Haz un regalo
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="/es/cares-act-reporting-requirements" class="tbm-link level-2 visible-xs">
+                Informes HEERF
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/commencement" class="tbm-link level-2">
+                Ceremonia de Graduación
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="/es/quicklinks/du-portals" class="tbm-link level-2">
+                Portales DU
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://outlook.office365.com/mail/?realm=dom.edu" class="tbm-link level-2">
+                Correo electrónico
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/information-technology" class="tbm-link level-2">
+                Tecnologías de la información
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://research.dom.edu" class="tbm-link level-2">
+                Biblioteca 
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/quicklinks/make-payment" class="tbm-link level-2">
+                Realizar un pago
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/stars-connect" class="tbm-link level-2">
+                Estrellas Conectar
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+  </ul>
+
+      </div>
+  </nav>
+
+<script>
+if (window.matchMedia("(max-width: 992px)").matches) {
+  document.getElementById("14cc2d8e-8288-40d0-88fe-73e917bbdf3a").classList.add('tbm--mobile')
+}
+</script>
+      </div>
+</div>
+<div class="block block--dom-gtranslate">
+  
+    
+  <div class="block__content">
+          
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"left","switcher_vertical_position":"top","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"top","switcher_open_direction":"bottom","default_language":"en","native_language_names":1,"detect_browser_language":0,"add_new_line":1,"select_language_label":"Language","flag_size":32,"flag_style":"2d","globe_size":60,"alt_flags":{"en":"usa"},"wrapper_selector":".gtranslate_wrapper","url_structure":"sub_directory","custom_domains":null,"languages":["en","es"],"custom_css":""};</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', 'https://cdn.gtranslate.net/widgets/latest/ln.js');js.setAttribute('data-gt-orig-url', '/offices/oie/institutional-data/profile-and-common-data-set');js.setAttribute('data-gt-orig-domain', 'www.dom.edu');document.body.appendChild(js);})();</script>
+      </div>
+</div>
+
+  </div>
+
+				<div class="search-toggles desktop-search">
+					<button type="button" class="search-open" tabindex="0"><i class="fa fa-search"><span class="sr-only">Abrir formulario de búsqueda</span></i></button>
+					  <div class="region region-header-search-bar">
+    <div class="search-block-form navbar-form block block--search" data-drupal-selector="search-block-form" role="search" tabindex="-1">
+  
+  
+      <form action="/es/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-group form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      
+  
+  
+  
+  <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="20" maxlength="128" placeholder="Buscar" class="form-search form-type-search form-control">
+
+
+
+  
+  
+  </div>
+<input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="41594471" class="form-type-hidden form-control">
+
+<input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="7c1tzFi5PLq1b2ldzPjUqRhxkUT_PhNRPQOFMybUlPU" class="form-type-hidden form-control">
+
+<div id="search-actions" data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper"><input id="search-submit" class="search-button button js-form-submit form-submit form-type-submit btn btn-default" data-drupal-selector="edit-submit" type="submit" value="Go">
+
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+					<button type="button" class="search-close hidden" tabindex="0"><i class="fa fa-close"><span class="sr-only">Cerrar formulario de búsqueda</span></i></button>
+				</div>
+			</div>
+			  <div class="region region-main-menu">
+    <div class="block block--dom-mainheadermenu">
+  
+    
+  <div class="block__content">
+          <style type="text/css">
+  .tbm.animate .tbm-item > .tbm-submenu, .tbm.animate.slide .tbm-item > .tbm-submenu > div {
+    transition-delay: 200ms;  -webkit-transition-delay: 200ms;  -ms-transition-delay: 200ms;  -o-transition-delay: 200ms;  transition-duration: 400ms;  -webkit-transition-duration: 400ms;  -ms-transition-duration: 400ms;  -o-transition-duration: 400ms;
+  }
+</style>
+<nav class="tbm tbm-main-header-menu tbm-no-arrows animate fading" id="bcec6cb3-63e6-4f96-af1b-699181e6c9a1" data-breakpoint="992" data-duration="400" data-delay="200" aria-label="main-header-menu navigation">
+      <div class="tbm-collapse ">
+    <ul class="tbm-nav level-0 items-5">
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Académicos
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-8">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/overview" class="tbm-link level-2">
+                Recursos académicos clave
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/majors-programs" class="tbm-link level-2">
+                Carreras y programas de pregrado
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="/es/academics/grad-phd" class="tbm-link level-2">
+                Programas de posgrado y doctorado
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/majors-programs?credential=6065051" class="tbm-link level-2">
+                Completar el grado
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="/es/academics/workforce-development-certificates" class="tbm-link level-2">
+                Desarrollo de la Fuerza Laboral
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/colleges-and-schools" class="tbm-link level-2">
+                colegios y escuelas
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/academic-partnerships" class="tbm-link level-2">
+                Asociaciones Académicas
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Admisión y ayuda
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-6">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/admission" class="tbm-link level-2">
+                Generales
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/offices/student-accounts/tuition-fees-and-expenses" class="tbm-link level-2">
+                Matrícula y costos
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/admission/office-financial-aid" class="tbm-link level-2">
+                ayuda financiera
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/admission/scholarships-dominican" class="tbm-link level-2">
+                Becas
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/visit-campus" class="tbm-link level-2">
+                Campus de visita
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/admission/admitted-students" class="tbm-link level-2">
+                Después de ser admitido
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Apoyo al Estudiante
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-5">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/student-life/SSE/engage-academic-support" class="tbm-link level-2">
+                Apoyo académico
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/career-programs" class="tbm-link level-2">
+                Ponte en contacto con nosotros
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/student-life/sse" class="tbm-link level-2">
+                Student Success and Engagement
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/campus-life/university-ministry" class="tbm-link level-2">
+                El Ministerio Universitario 
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="/es/student-support/wellness-center" class="tbm-link level-2">
+                El Centro de Bienestar
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Vida Universitaria
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-5">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/student-life/housing" class="tbm-link level-2">
+                La vivienda 
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/campus-life/dining-services" class="tbm-link level-2">
+                Servicios de Comedor
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/student-support/sse/get-involved-on-campus" class="tbm-link level-2">
+                Actividades y participación
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://dustars.com/" class="tbm-link level-2">
+                Deportes
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/arts-minds" class="tbm-link level-2">
+                Arte y Cultura
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+          <li class="tbm-item level-1 tbm-item--has-dropdown" aria-level="1">
+      <div class="tbm-link-container">
+            <span class="tbm-link level-1 no-link tbm-toggle" tabindex="0" aria-expanded="false">
+                Sobre Nosotros
+          </span>
+                <button class="tbm-submenu-toggle"><span class="visually-hidden">Alternar submenú</span></button>
+          </div>
+    <div class="tbm-submenu tbm-item-child">
+      <div class="tbm-row">
+      <div class="tbm-column span12">
+  <div class="tbm-column-inner">
+               <ul class="tbm-subnav level-1 items-8">
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/about-dominican" class="tbm-link level-2">
+                Sobre Nosotros Dominican
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/about-dominican/mission" class="tbm-link level-2">
+                Misión
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/diversity" class="tbm-link level-2">
+                Equidad
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/chicagos-premier-catholic-hsi" class="tbm-link level-2">
+                Institución de servicio hispano
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/about-dominican/leadership" class="tbm-link level-2">
+                Liderazgo
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/about-dominican/offices" class="tbm-link level-2">
+                Oficinas administrativas
+          </a>
+            </div>
+    
+</li>
+
+        <li class="tbm-item level-2" aria-level="2">
+      <div class="tbm-link-container">
+            <a href="https://www.dom.edu/es/academics/partnership-opportunities" class="tbm-link level-2">
+                Oportunidades de colaboración
+          </a>
+            </div>
+    
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+</li>
+
+  </ul>
+
+      </div>
+  </nav>
+
+<script>
+if (window.matchMedia("(max-width: 992px)").matches) {
+  document.getElementById("bcec6cb3-63e6-4f96-af1b-699181e6c9a1").classList.add('tbm--mobile')
+}
+</script>
+      </div>
+</div>
+
+  </div>
+
+			<div class="task-bar task-bar-mobile visible-xs visible-sm-block">
+
+				<div class="mobile-card-links">
+					<ul>
+						<li><a href="/es/visit-campus">Programa una visita</a></li>
+						<li><a href="/es/request-information">Solicitar Información</a></li>
+						<li><a href="/es/apply">Aplicar a Dominican</a></li>
+					</ul>
+				</div>
+			</div>
+		  </div><!-- /.navbar-collapse -->
+		  
+		</nav><!-- /.navbar -->
+	</div> <!-- /.container -->
+</header>
+
+
+	<div id="breadcrumb">
+    	  <div class="region region-breadcrumbs">
+    <button id="menu-toggle">Menú<i class="fa fa-bars"></i></button>
+<nav class="block block--menu block--dom-mainmenu" role="navigation">
+  
+      <h4 class="block__title">Menú</h4>
+    <button id="menu-close" tabindex="0"><i class="fa fa-close"><span class="sr-only">Cerrar menú</span></i></button>
+    
+  <div class="block__content">
+  		    
+
+
+
+        <ul class="nav">
+                  <li class="menu-link-benchmarking-reports">
+                  <a href="/es/offices/oie/institutional-data/benchmarking-reports" data-drupal-link-system-path="node/51781">Informes de evaluación comparativa</a>
+        
+      </li>
+                <li class="menu-link-academic-management">
+                  <a href="/es/offices/oie/institutional-data/academic-management" data-drupal-link-system-path="node/51791">Gestión Académica</a>
+        
+      </li>
+                <li class="menu-link-enrollment-reports">
+                  <a href="/es/offices/oie/institutional-data/enrollment-reports" data-drupal-link-system-path="node/51751">Informes de inscripción</a>
+        
+      </li>
+                <li class="menu-link-consumer-information">
+                  <a href="https://www.dom.edu/es/node/49566">Información al Consumidor</a>
+        
+      </li>
+                <li class="menu-link-admission-and-financial-aid">
+                  <a href="/es/offices/oie/institutional-data/admission-and-financial-aid-reports" data-drupal-link-system-path="node/51761">Admisión y Ayuda Financiera</a>
+        
+      </li>
+                <li class="menu-link-survey-reports">
+                  <a href="/es/offices/oie/survey-reports" data-drupal-link-system-path="node/51801">Informes de encuestas</a>
+        
+      </li>
+                <li class="menu-link-student-outcomes">
+                  <a href="/es/offices/oie/institutional-data/student-outcomes" data-drupal-link-system-path="node/51771">Resultados de los estudiantes</a>
+        
+      </li>
+                <li class="active menu-link-common-data-set">
+                  <a href="/es/offices/oie/institutional-data/profile-and-common-data-set" data-drupal-link-system-path="node/51786" class="is-active" aria-current="page">Conjunto de datos común</a>
+        
+      </li>
+                <li class="menu-link-degrees-conferred-and-completer-profiles">
+                  <a href="/es/offices/oie/institutional-data/degrees-conferred-and-completer-profiles" data-drupal-link-system-path="node/51766">Grados Otorgados y Perfiles de Terminación</a>
+        
+      </li>
+      </ul>
+    
+
+
+	  </div>
+</nav>
+<div class="menu-underlay"></div>
+
+<div class="block block--dom-breadcrumbs">
+  
+    
+  <div class="block__content">
+            <nav role="navigation" aria-labelledby="system-breadcrumb">
+    <div id="system-breadcrumb" class="visually-hidden">Miga de Pan (Breadcrumb)</div>
+    <ol class="breadcrumb">
+              <li>
+                      <a href="/es/about-dominican">Sobre Nosotros Dominican</a>
+                  </li>
+              <li>
+                      <a href="/es/about/administrative-offices">Oficinas administrativas</a>
+                  </li>
+              <li>
+                      <a href="/es/offices/oie">Efectividad institucional</a>
+                  </li>
+              <li>
+                      <a href="/es/offices/oie/institutional-data">Datos institucionales</a>
+                  </li>
+              <li>
+                      Conjunto de datos común
+                  </li>
+          </ol>
+  </nav>
+
+      </div>
+</div>
+<div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+	</div>  <!-- /#breadcrumb -->
+
+
+<div id="main-wrapper">
+  <main id="main" class="main">
+    <div class="container page-content">
+    
+	    <div class="content-grid">		    
+	        		    <section id="content">
+				<div id="page-header">
+			          <div class="region region-title">
+    <div class="block block--dom-page-title">
+  
+    
+  <div class="block__content">
+          
+  <div class="page-header">
+    <h1 class="page-title">
+<span>Perfil universitario y conjunto de datos comunes</span>
+</h1>
+  </div>
+
+
+      </div>
+</div>
+
+  </div>
+
+			    </div>
+		        <div class="region region-content">
+    <div class="views-element-container block block-- block--views-block--cta-links-regular" id="block-views-block-cta-links-regular">
+  
+    
+  <div class="block__content">
+          <div><div class="view view--cta-links view--cta-links--regular view-id-cta_links view-display-id-regular js-view-dom-id-4ad3dfc0a3bf256deb142ff0d59eefd3d348cb84d690a64fda4fcc0a85133a11">
+  
+    
+      
+  
+        </div>
+</div>
+
+      </div>
+</div>
+
+
+<article class="node page page--full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+
+
+  <div class="field field--name-field-content field--type-text-long field--label-hidden field__items">
+        <div class="field__item"><h2>Perfil Universitario</h2>
+<p>Un resumen de información y datos generales de la universidad.</p>
+<p class="gt-block"><em>Todos los documentos a continuación están en formato PDF y se abren en una nueva ventana a menos que se indique lo contrario.</em></p>
+<p class="gt-block"><a href="https://www.dom.edu/sites/default/files/2025-12/OIE_Dominican_University_Profile_FA25_FINAL_12_2_25.pdf" target="_blank">Perfil universitario de otoño de 2025</a></p>
+<p class="gt-block"><a href="https://www.dom.edu/sites/default/files/2025-03/Dominican%20University%20Profile%20-%20FA24_FINAL_1_19_25.pdf" target="_blank">Perfil universitario de otoño de 2024</a></p>
+<h2>Conjunto de datos común</h2>
+<p class="gt-block"><a href="https://www.dom.edu/sites/default/files/2026-01/OIE_CDS_2025-2026_Final_12_11_25.pdf" target="_blank">Conjunto de datos comunes 2025-2026</a></p>
+<p class="gt-block">Informes adicionales, incluidas versiones históricas de los presentados aquí, están disponibles en el&nbsp;<a href="https://mydomedu.sharepoint.com/sites/oir">biblioteca de documentos de la OIE</a> <em>(Necesario iniciar sesión)</em>, accesible a Dominican University miembros de la comunidad solamente.</p>
+</div>
+  </div>
+  </div>
+
+</article>
+
+  </div>
+
+		    </section> <!-- /#content -->	    
+		    
+					    
+	    </div>
+	    
+			    
+    </div>    
+  </main> <!-- /#main -->
+</div> <!-- /#main-wrapper -->
+
+
+
+
+
+
+
+
+<footer id="footer" class="footer">
+	<div class="container">
+		<div class="row footer-top">
+		    <div class="footer-left">
+		          <div class="region region-footer-left">
+    <div id="block-dom-block-11" class="block block-- block--basic block--dom-block-11">
+  
+    
+  <div class="block__content">
+          
+
+
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+        <div class="field__item"><h2 class="footer-logo">Dominican University</h2></div>
+  </div>
+      </div>
+</div>
+
+<div id="block-dom-block-1" class="block block-- block--basic block--dom-block-1">
+  
+    
+  <div class="block__content">
+          
+
+
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+        <div class="field__item"><div class="row">
+<div class="river-forest-campus">
+<h3 class="block__title">River Forest Campus</h3>
+<p class="gt-block">7900 W Division St<br>River Forest, IL 60305<br>(708) 366-2490</p>
+</div>
+<div class="chicago-campus">
+<h3 class="block__title">Chicago Campus</h3>
+<p class="gt-block">1805 S Paulina St<br>Chicago, IL 60608<br>(708) 366-2490</p>
+</div>
+</div>
+<div class="footer-contact-links"><a href="https://www.dom.edu/es/about-dominican/contact-us">Contáctenos</a><br><a href="https://www.dom.edu/es/about-dominican/directions-and-campus-map" target="_blank">Direcciones y mapa del campus</a></div>
+</div>
+  </div>
+      </div>
+</div>
+
+<div id="block-dom-block-16" class="block block-- block--basic block--dom-block-16">
+  
+    
+  <div class="block__content">
+          
+
+
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+        <div class="field__item"><a href="https://www.instagram.com/dominicanu/" aria-label="Dominican University Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+<a href="https://www.facebook.com/Dominican" aria-label="Dominican University Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/@DominicanUniversity" aria-label="Dominican University YouTube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+
+
+</div>
+  </div>
+      </div>
+</div>
+
+
+  </div>
+
+		    </div>  <!-- /#footer-left -->
+		    <div class="footer-right">
+				<div class="row footer-menu">
+			          <div class="region region-footer-menu">
+    <div id="block-dom-block-36" class="block block-- block--basic block--dom-block-36">
+  
+    
+  <div class="block__content">
+          
+
+
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden field__items">
+        <div class="field__item"><div class="footer-menus"><div class="footer-information"><h3 class="block__title">Información</h3><ul><li><a href="https://mydu.dom.edu/ICS/Resources/Student_Services/Registrar%27s_Office/Academic_Calendar.jnz" target="_blank">Calendario académico</a></li><li><a href="/es/campus-reporting-options">Opciones de informes del campus</a></li><li><a href="/es/directory">Directory</a></li><li><a href="/es/offices/hr/jobs-dominican" target="_blank">Oportunidades de Empleo</a></li><li><a href="https://www.dom.edu/es/cares-act-reporting-requirements">Informes HEERF</a></li><li><a href="http://www.bkstr.com/dominicanstore/home">Librería Stepán</a></li><li><a href="https://bulletin.dom.edu/" target="_blank">Boletín Universitario</a></li></ul></div><div class="footer-legal"><h3 class="block__title">Legal</h3><ul><li><a href="https://www.dom.edu/es/about/campus-anti-hazing-policy-and-reporting">Política contra las novatadas y denuncia de estas</a></li><li><a href="https://www.dom.edu/sites/default/files/2025-09/2025_Annual_Security_Report_Final_with_Link.pdf" target="_blank">Ley de Clery</a></li><li><a href="https://www.dom.edu/es/about-dominican/consumer-information" target="_blank">Información al Consumidor</a></li><li><a href="https://www.dom.edu/es/about-dominican/consumer-information/complaints-and-grievances" target="_blank">Quejas de estudiantes</a></li><li><a href="https://www.dom.edu/es/diversity/policies" target="_blank">Título IX</a></li><li><a href="https://www.dom.edu/es/about-dominican/consumer-information/website-privacy-policy">Política de Privacidad del Sitio Web</a></li></ul></div></div></div>
+  </div>
+      </div>
+</div>
+
+
+  </div>
+
+				</div> <!-- /#footer-menu -->
+				<div class="row footer-quick-links">
+			        
+				</div> <!-- /#footer-quick-links -->
+		    </div>  <!-- /#footer-right -->
+		</div>
+		<div class="row footer-bottom">
+		    <div class="col-sm-12 footer-task-bar">
+		        
+		    </div>  <!-- /#footer-task-bar -->
+		</div> <!-- /#footer-bottom -->
+	</div>
+</footer>
+
+
+  </div>
+
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/51786","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"#featured-image-links-61316","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to a web site outside of Dominican University.","extHideIcons":false,"mailtoClass":"mailto","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EWe use cookies to improve your experience on our website. By continuing to use our site, you agree to our use of cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EView privacy policy\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003EI Agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EView privacy policy\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003EI Agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/about-dominican\/consumer-information\/website-privacy-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button  button button--small button--primary\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":" button button--small button--primary","olivero_secondary_button_classes":" button button--small","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"TBMegaMenu":{"TBElementsCounter":{"column":null},"theme":"dom","bcec6cb3-63e6-4f96-af1b-699181e6c9a1":{"arrows":"0"},"14cc2d8e-8288-40d0-88fe-73e917bbdf3a":{"arrows":"0"}},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"c6db40d2e44f6198b83812c8f11a18ea765b70b7f098f9aa82118cdabbb8161e"}}</script>
+<script src="https://www.dom.edu/sites/default/files/js/js_lGRx7dqF0W0gPusld22N7A81cI6X-i8iMA3c_QCmQ1w.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=dom&amp;include=eJxtjUsKxDAMQy9k6iMFx3GLqROHfCDHb2fodDUb6UkIxG7eoi_kB-AHmGSnaeMtQtdcTYI5JfwIJM8YqQvIDOx-qtx2b5QKC_4rQdYwLSemNivZ9kTwuM_ONCRIJrX3u1HShZ2b1gEjhiwHZSnze3sBYAVJ0g"></script>
+
+
+	<!-- Google Code for Remarketing Tag -->
+	<!--------------------------------------------------
+	Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+	--------------------------------------------------->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1017366393;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1017366393/?guid=ON&amp;script=0"/>
+	</div>
+	</noscript> 
+	
+	<!-- Site Improve Tag -->
+	<script type="text/javascript">
+	/*<![CDATA[*/
+	(function() {
+	var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+	sz.src = '//siteimproveanalytics.com/js/siteanalyze_66357567.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+	})();
+	/*]]>*/
+	</script> 
+
+
+
+<script data-cfasync="false" src="https://tdns6.gtranslate.net/tdn-bin/queue.js"></script></body></html>

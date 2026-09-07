@@ -1,3 +1,608 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29b803d2a6f7b12d0e7a0f0323a569155d11589d600aa24adc2cc9fdc9571379
-size 83741
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v27.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Home - Common Data Set</title>
+	<link rel="canonical" href="https://commondataset.org/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Common Data Set" />
+	<meta property="og:description" content="Common Data Set Initiative The Common Data Set (CDS) initiative is a collaborative effort among data providers in the higher education community and publishers as represented by the College Board, Peterson&#8217;s, and U.S. News &amp; World Report. The combined goal of this collaboration is to improve the quality and accuracy of information provided to all [&hellip;]" />
+	<meta property="og:url" content="https://commondataset.org/" />
+	<meta property="og:site_name" content="Common Data Set" />
+	<meta property="article:modified_time" content="2025-11-26T17:17:33+00:00" />
+	<meta property="og:image" content="https://commondataset.org/wp-content/uploads/2020/04/1280px-College_Board_logo.svg.png" />
+	<meta property="og:image:width" content="1280" />
+	<meta property="og:image:height" content="232" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/commondataset.org\/","url":"https:\/\/commondataset.org\/","name":"Home - Common Data Set","isPartOf":{"@id":"https:\/\/commondataset.org\/#website"},"about":{"@id":"https:\/\/commondataset.org\/#organization"},"primaryImageOfPage":{"@id":"https:\/\/commondataset.org\/#primaryimage"},"image":{"@id":"https:\/\/commondataset.org\/#primaryimage"},"thumbnailUrl":"https:\/\/commondataset.org\/wp-content\/uploads\/2020\/04\/1280px-College_Board_logo.svg.png","datePublished":"2020-04-02T00:35:40+00:00","dateModified":"2025-11-26T17:17:33+00:00","breadcrumb":{"@id":"https:\/\/commondataset.org\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/commondataset.org\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/commondataset.org\/#primaryimage","url":"https:\/\/commondataset.org\/wp-content\/uploads\/2020\/04\/1280px-College_Board_logo.svg.png","contentUrl":"https:\/\/commondataset.org\/wp-content\/uploads\/2020\/04\/1280px-College_Board_logo.svg.png","width":1280,"height":232},{"@type":"BreadcrumbList","@id":"https:\/\/commondataset.org\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/commondataset.org\/#website","url":"https:\/\/commondataset.org\/","name":"Common Data Set","description":"A Collaborative Effort","publisher":{"@id":"https:\/\/commondataset.org\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/commondataset.org\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/commondataset.org\/#organization","name":"Common Data Set","url":"https:\/\/commondataset.org\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/commondataset.org\/#\/schema\/logo\/image\/","url":"https:\/\/commondataset.org\/wp-content\/uploads\/2020\/01\/petersons.svg","contentUrl":"https:\/\/commondataset.org\/wp-content\/uploads\/2020\/01\/petersons.svg","caption":"Common Data Set"},"image":{"@id":"https:\/\/commondataset.org\/#\/schema\/logo\/image\/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Common Data Set &raquo; Feed" href="https://commondataset.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Common Data Set &raquo; Comments Feed" href="https://commondataset.org/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://commondataset.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcommondataset.org%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://commondataset.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcommondataset.org%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://commondataset.org/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.8' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-style-css' href='https://commondataset.org/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.8' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.50.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4' media='all' />
+<link rel='stylesheet' id='elementor-post-26-css' href='https://commondataset.org/wp-content/uploads/elementor/css/post-26.css?ver=1782379189' media='all' />
+<link rel='stylesheet' id='she-header-style-css' href='https://commondataset.org/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.4' media='all' />
+<link rel='stylesheet' id='widget-image-box-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.1.4' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.4' media='all' />
+<link rel='stylesheet' id='widget-menu-anchor-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=4.1.4' media='all' />
+<link rel='stylesheet' id='elementor-post-31-css' href='https://commondataset.org/wp-content/uploads/elementor/css/post-31.css?ver=1782379190' media='all' />
+<link rel='stylesheet' id='pafe-43-css' href='https://commondataset.org/wp-content/uploads/premium-addons-elementor/pafe-43.css?ver=1764177453' media='all' />
+<link rel='stylesheet' id='elementor-post-43-css' href='https://commondataset.org/wp-content/uploads/elementor/css/post-43.css?ver=1782379190' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://commondataset.org/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='https://commondataset.org/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='https://commondataset.org/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.1.6' media='all' />
+<style id="oceanwp-style-inline-css">
+body div.wpforms-container-full .wpforms-form input[type=submit]:hover,
+			body div.wpforms-container-full .wpforms-form input[type=submit]:active,
+			body div.wpforms-container-full .wpforms-form button[type=submit]:hover,
+			body div.wpforms-container-full .wpforms-form button[type=submit]:active,
+			body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,
+			body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form input[type=submit]:hover,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form input[type=submit]:active,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form button[type=submit]:hover,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form button[type=submit]:active,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form .wpforms-page-button:active {
+					background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), var(--wpforms-button-background-color-alt, var(--wpforms-button-background-color)) !important;
+			}
+/*# sourceURL=oceanwp-style-inline-css */
+</style>
+<link rel='stylesheet' id='oceanwp-google-font-nunito-css' href='//fonts.googleapis.com/css?family=Nunito:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&#038;subset=latin&#038;display=swap&#038;ver=a5e3ea6e8c3da6dab89e5dbe8f246bb8' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='hfe-widget-blockquote-css' href='https://commondataset.org/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0' media='all' />
+<link rel='stylesheet' id='hfe-mega-menu-css' href='https://commondataset.org/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-widget-css' href='https://commondataset.org/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css' href='https://commondataset.org/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=a5e3ea6e8c3da6dab89e5dbe8f246bb8' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://commondataset.org/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1749128068' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://commondataset.org/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1749129718' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-opensans-css' href='https://commondataset.org/wp-content/uploads/elementor/google-fonts/css/opensans.css?ver=1749128071' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<script id="jquery-core-js" src="https://commondataset.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://commondataset.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-js-after">
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+</script>
+<script id="she-header-js" src="https://commondataset.org/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=2.1.9"></script>
+<link rel="https://api.w.org/" href="https://commondataset.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://commondataset.org/wp-json/wp/v2/pages/31" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://commondataset.org/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://commondataset.org/' />
+<meta name="generator" content="Elementor 4.1.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://commondataset.org/wp-content/uploads/2023/02/cropped-icons8-realtime-database-48-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://commondataset.org/wp-content/uploads/2023/02/cropped-icons8-realtime-database-48-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://commondataset.org/wp-content/uploads/2023/02/cropped-icons8-realtime-database-48-180x180.png" />
+<meta name="msapplication-TileImage" content="https://commondataset.org/wp-content/uploads/2023/02/cropped-icons8-realtime-database-48-270x270.png" />
+<style id="wp-custom-css">
+@media(max-width:767px){body{overflow:hidden}.elementor-31 .elementor-element.elementor-element-44234a68 .elementor-heading-title{line-height:1.3}}
+</style>
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* Colors */body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button,.woocommerce-cart .wp-element-button,.woocommerce-checkout .wp-element-button,.wp-block-button__link{border-color:#ffffff}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,.woocommerce-cart .wp-element-button:hover,.woocommerce-checkout .wp-element-button:hover,.wp-block-button__link:hover{border-color:#ffffff}/* OceanWP Style Settings CSS */.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-style:solid}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-width:1px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-style:solid}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-style:solid}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{border-radius:3px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-radius:3px}/* Header */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:90px}#site-navigation-wrap .dropdown-menu >li >a,#site-navigation-wrap .dropdown-menu >li >span.opl-logout-link,.oceanwp-mobile-menu-icon a,.mobile-menu-close,.after-header-content-inner >a{line-height:90px}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* Blog CSS */.ocean-single-post-header ul.meta-item li a:hover{color:#333333}/* Sidebar */.widget-area .sidebar-box,.separate-layout .sidebar-box{margin-bottom:px}/* Typography */body{font-family:Nunito;font-size:14px;line-height:1.8}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{line-height:1.4}h1{font-size:23px;line-height:1.4}h2{font-size:20px;line-height:1.4}h3{font-size:18px;line-height:1.4}h4{font-size:17px;line-height:1.4}h5{font-size:14px;line-height:1.4}h6{font-size:15px;line-height:1.4}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-size:32px;line-height:1.4}.page-header .page-subheading,.page-header.background-image-page-header .page-subheading{font-size:15px;line-height:1.8}.site-breadcrumbs,.site-breadcrumbs a{font-size:13px;line-height:1.4}#top-bar-content,#top-bar-social-alt{font-size:12px;line-height:1.8}#site-logo a.site-logo-text{font-size:24px;line-height:1.8}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:12px;line-height:1.2;letter-spacing:.6px}.sidr-class-dropdown-menu li a,a.sidr-class-toggle-sidr-close,#mobile-dropdown ul li a,body #mobile-fullscreen ul li a{font-size:15px;line-height:1.8}.blog-entry.post .blog-entry-header .entry-title a{font-size:24px;line-height:1.4}.ocean-single-post-header .single-post-title{font-size:34px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header ul.meta-item li,.ocean-single-post-header ul.meta-item li a{font-size:13px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-name,.ocean-single-post-header .post-author-name a{font-size:14px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-description{font-size:12px;line-height:1.4;letter-spacing:.6px}.single-post .entry-title{line-height:1.4;letter-spacing:.6px}.single-post ul.meta li,.single-post ul.meta li a{font-size:14px;line-height:1.4;letter-spacing:.6px}.sidebar-box .widget-title,.sidebar-box.widget_block .wp-block-heading{font-size:13px;line-height:1;letter-spacing:1px}#footer-widgets .footer-box .widget-title{font-size:13px;line-height:1;letter-spacing:1px}#footer-bottom #copyright{font-size:12px;line-height:1}#footer-bottom #footer-bottom-menu{font-size:12px;line-height:1}.woocommerce-store-notice.demo_store{line-height:2;letter-spacing:1.5px}.demo_store .woocommerce-store-notice__dismiss-link{line-height:2;letter-spacing:1.5px}.woocommerce ul.products li.product li.title h2,.woocommerce ul.products li.product li.title a{font-size:14px;line-height:1.5}.woocommerce ul.products li.product li.category,.woocommerce ul.products li.product li.category a{font-size:12px;line-height:1}.woocommerce ul.products li.product .price{font-size:18px;line-height:1}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{font-size:12px;line-height:1.5;letter-spacing:1px}.woocommerce ul.products li.owp-woo-cond-notice span,.woocommerce ul.products li.owp-woo-cond-notice a{font-size:16px;line-height:1;letter-spacing:1px;font-weight:600;text-transform:capitalize}.woocommerce div.product .product_title{font-size:24px;line-height:1.4;letter-spacing:.6px}.woocommerce div.product p.price{font-size:36px;line-height:1}.woocommerce .owp-btn-normal .summary form button.button,.woocommerce .owp-btn-big .summary form button.button,.woocommerce .owp-btn-very-big .summary form button.button{font-size:12px;line-height:1.5;letter-spacing:1px;text-transform:uppercase}.woocommerce div.owp-woo-single-cond-notice span,.woocommerce div.owp-woo-single-cond-notice a{font-size:18px;line-height:2;letter-spacing:1.5px;font-weight:600;text-transform:capitalize}.ocean-preloader--active .preloader-after-content{font-size:20px;line-height:1.8;letter-spacing:.6px}
+</style></head>
+
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-31 wp-custom-logo wp-embed-responsive wp-theme-oceanwp ehf-header ehf-footer ehf-template-oceanwp ehf-stylesheet-oceanwp oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-26 elementor-page elementor-page-31" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+					<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://commondataset.org/" title="Common Data Set" rel="home">Common Data Set</a></p>
+					</header>
+
+	
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="31" class="elementor elementor-31" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-2335cf0c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2335cf0c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-55973ce1" data-id="55973ce1" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-44234a68 elementor-widget elementor-widget-heading" data-id="44234a68" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Common Data Set Initiative</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5dd35694 elementor-widget elementor-widget-text-editor" data-id="5dd35694" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The Common Data Set (CDS) initiative is a collaborative effort among data providers in the higher education community and publishers as represented by the College Board, Peterson&#8217;s, and U.S. News &amp; World Report. The combined goal of this collaboration is to improve the quality and accuracy of information provided to all involved in a student&#8217;s transition into higher education, as well as to reduce the reporting burden on data providers.</p>								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4ce16d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ce16d9" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f4e3e92" data-id="f4e3e92" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e65abad elementor-align-right elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="e65abad" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#DOWNLOADS">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-down"></i>			</span>
+									<span class="elementor-button-text">Download 2025-2026 CDS</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7141c39" data-id="7141c39" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6402d57 elementor-align-left elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="6402d57" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://groups.google.com/u/1/a/cbcommondataset.org/g/commondataset" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="fas fa-comments"></i>			</span>
+									<span class="elementor-button-text">Join Our Google Group</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d65401e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d65401e" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6924684" data-id="6924684" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ac4b197 members-box elementor-position-top elementor-widget elementor-widget-image-box" data-id="ac4b197" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img fetchpriority="high" decoding="async" width="1280" height="232" src="https://commondataset.org/wp-content/uploads/2020/04/1280px-College_Board_logo.svg.png" class="attachment-full size-full wp-image-60" alt="" srcset="https://commondataset.org/wp-content/uploads/2020/04/1280px-College_Board_logo.svg.png 1280w, https://commondataset.org/wp-content/uploads/2020/04/1280px-College_Board_logo.svg-300x54.png 300w, https://commondataset.org/wp-content/uploads/2020/04/1280px-College_Board_logo.svg-1024x186.png 1024w, https://commondataset.org/wp-content/uploads/2020/04/1280px-College_Board_logo.svg-768x139.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">The College Board is a mission-driven not-for-profit organization that connects students to college success and opportunity. With a membership up of over 6,000 of the world’s leading educational institutions it is dedicated to promoting excellence and equity in education.​</p></div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-751f901" data-id="751f901" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4a77698 members-box elementor-position-top elementor-widget elementor-widget-image-box" data-id="4a77698" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="2560" height="626" src="https://commondataset.org/wp-content/uploads/2020/06/usnews-scaled.jpg" class="attachment-full size-full wp-image-307" alt="" srcset="https://commondataset.org/wp-content/uploads/2020/06/usnews-scaled.jpg 2560w, https://commondataset.org/wp-content/uploads/2020/06/usnews-300x73.jpg 300w, https://commondataset.org/wp-content/uploads/2020/06/usnews-1024x250.jpg 1024w, https://commondataset.org/wp-content/uploads/2020/06/usnews-768x188.jpg 768w, https://commondataset.org/wp-content/uploads/2020/06/usnews-1536x375.jpg 1536w, https://commondataset.org/wp-content/uploads/2020/06/usnews-2048x501.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">U.S. NEWS &amp; WORLD Report is a multi-platform publisher of news and information, which includes www.usnews.com and annual print and e-book versions of its authoritative rankings of Best Colleges, Best Graduate Schools and Best Hospitals.​</p></div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1fbce25" data-id="1fbce25" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-eb6b71c members-box elementor-position-top elementor-widget elementor-widget-image-box" data-id="eb6b71c" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="285" height="51" src="https://commondataset.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-11.04.28-AM.png" class="attachment-1536x1536 size-1536x1536 wp-image-356" alt="" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Peterson’s is the world’s leading educational services company dedicated to furthering education after high school and beyond. From culinary school to medical school--and everything in-between--Peterson’s helps you discover, prepare for, and fund your education.</p></div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-626b929 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="626b929" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e9291ad" data-id="e9291ad" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ed2c4a4 elementor-widget elementor-widget-heading" data-id="ed2c4a4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">OUR GOAL</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-71c089c elementor-widget elementor-widget-text-editor" data-id="71c089c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: left;">Our goal is the development of clear, standard data items and definitions in order to determine a specific cohort relevant to each item.</p><p style="text-align: left;">Data items and definitions used by the U.S. Department of Education in its higher education surveys often serve as a guide in the continued development of the CDS.</p><p style="text-align: left;">Common Data Set items undergo broad review by the CDS Advisory Board as well as by data providers representing secondary schools and two- and four-year colleges. Feedback from those who utilize the CDS also is considered throughout the annual review process.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-dcb5458" data-id="dcb5458" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a97e947 mountain elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-image" data-id="a97e947" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://commondataset.org/wp-content/uploads/2020/06/mountain.svg" title="" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cd4ddd6 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd4ddd6" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e814db6" data-id="e814db6" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-66745e7 clipboard elementor-hidden-phone elementor-widget elementor-widget-image" data-id="66745e7" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="768" height="1" src="https://commondataset.org/wp-content/uploads/2020/06/clipboard.svg" class="attachment-medium_large size-medium_large wp-image-364" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-83aa733" data-id="83aa733" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0871fc8 elementor-widget elementor-widget-heading" data-id="0871fc8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">STANDARDS</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-76227db elementor-widget elementor-widget-text-editor" data-id="76227db" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The CDS is a set of standards and definitions of data items rather than a survey instrument or set of data represented in a database. Each of the higher education surveys conducted by the participating publishers incorporates items from the CDS as well as unique items proprietary to each publisher. Consequently, the publishers&#8217; surveys differ in that they utilize varying numbers of items from the CDS.</p>
+<p>Those who report data for their colleges are urged to abide by the definitions and the cohorts specified when answering CDS items. They are also urged to use the answers to CDS items when responding to the numerous survey requests they receive, by distributing photocopies of their answers, posting them on their web sites, or by other effective means.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-20e3952 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20e3952" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b5b91e4" data-id="b5b91e4" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3dd16a1 elementor-widget elementor-widget-menu-anchor" data-id="3dd16a1" data-element_type="widget" data-e-type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-menu-anchor" id="DOWNLOADS"></div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-357e1e2 elementor-widget elementor-widget-heading" data-id="357e1e2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">CDS DOWNLOADS</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c3f5cd6 elementor-align-justify inline-icon elementor-widget__width-inherit elementor-widget elementor-widget-download-button" data-id="c3f5cd6" data-element_type="widget" data-e-type="widget" data-widget_type="download-button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+			<a href="https://commondataset.org/wp-content/uploads/2025/11/CDS-2025-2026-Summary-of-Changes-1.docx" class="elementor-button-link elementor-button elementor-size-md" download="" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-down"></i>			</span>
+						<span class="elementor-button-text">SUMMARY OF CHANGES</span>
+		</span>
+					</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9d63851 elementor-align-justify inline-icon elementor-widget__width-inherit elementor-widget elementor-widget-download-button" data-id="9d63851" data-element_type="widget" data-e-type="widget" data-widget_type="download-button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+			<a href="https://commondataset.org/wp-content/uploads/2025/11/CDS-PDF-2025-2026-Excel_Template.xlsx" class="elementor-button-link elementor-button elementor-size-md" download="" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-down"></i>			</span>
+						<span class="elementor-button-text">EXCEL</span>
+		</span>
+					</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-78f921d elementor-align-justify inline-icon elementor-widget__width-inherit elementor-widget elementor-widget-download-button" data-id="78f921d" data-element_type="widget" data-e-type="widget" data-widget_type="download-button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+			<a href="https://commondataset.org/wp-content/uploads/2025/11/CDS_2025-2026-Word_Template.docx" class="elementor-button-link elementor-button elementor-size-md" download="" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-down"></i>			</span>
+						<span class="elementor-button-text">WORD</span>
+		</span>
+					</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-606fe6d elementor-align-justify inline-icon elementor-widget__width-inherit elementor-widget elementor-widget-download-button" data-id="606fe6d" data-element_type="widget" data-e-type="widget" data-widget_type="download-button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+			<a href="https://commondataset.org/wp-content/uploads/2025/11/CDS-PDF-2025-2026_PDF_Template.pdf" class="elementor-button-link elementor-button elementor-size-md" download="" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-down"></i>			</span>
+						<span class="elementor-button-text">FILLABLE PDF</span>
+		</span>
+					</a>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+				<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'><style>.elementor-43 .elementor-element.elementor-element-4c879faf > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-43 .elementor-element.elementor-element-4c879faf:not(.elementor-motion-effects-element-type-background), .elementor-43 .elementor-element.elementor-element-4c879faf > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#394C5D;}.elementor-43 .elementor-element.elementor-element-4c879faf{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:35px 0px 30px 0px;}.elementor-43 .elementor-element.elementor-element-4c879faf > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-43 .elementor-element.elementor-element-79c11cce > .elementor-widget-container{margin:20px 0px 0px 0px;}.elementor-43 .elementor-element.elementor-element-79c11cce .elementor-heading-title{font-family:"Open Sans", Sans-serif;font-size:18px;font-weight:700;line-height:1.5em;color:#ffffff;}.elementor-43 .elementor-element.elementor-element-4e5f2ea5 > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-43 .elementor-element.elementor-element-4e5f2ea5{font-family:"Open Sans", Sans-serif;font-size:15px;font-weight:300;text-transform:uppercase;color:#FFFFFF;}.elementor-43 .elementor-element.elementor-element-a2dec7e > .elementor-widget-container{margin:-23px 0px 0px 0px;}.elementor-43 .elementor-element.elementor-element-a2dec7e{text-align:left;}.elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button .premium-button-text-icon-wrapper span{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:700;text-transform:uppercase;color:#FFFFFF;}.elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button, .elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button.premium-button-style2-shutinhor:before , .elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button.premium-button-style2-shutinver:before , .elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button-style5-radialin:before , .elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button-style5-rectin:before{background-color:#6EC1E4;}.elementor-43 .elementor-element.elementor-element-a2dec7e .premium-button{border-radius:5px;}.elementor-43 .elementor-element.elementor-element-5b1a2a0 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-43 .elementor-element.elementor-element-5b1a2a0{font-family:"Open Sans", Sans-serif;font-size:14px;font-weight:300;color:#FFFFFF;}.elementor-43 .elementor-element.elementor-element-fc14ca7 > .elementor-widget-container{margin:-70px 0px -3px 374px;padding:0px 0px 0px 0px;}.elementor-43 .elementor-element.elementor-element-fc14ca7 a.elementor-button, .elementor-43 .elementor-element.elementor-element-fc14ca7 .elementor-button{font-family:"Open Sans", Sans-serif;font-size:13px;font-weight:700;text-transform:uppercase;fill:#FFFFFF;color:#FFFFFF;background-color:#818A91;border-radius:5px 5px 5px 5px;padding:10px 15px 9px 15px;}.elementor-43 .elementor-element.elementor-element-58d2ac75 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 10px 0px 10px;}.elementor-43 .elementor-element.elementor-element-5fe10e5 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-43 .elementor-element.elementor-element-5fe10e5{text-align:center;}.elementor-43 .elementor-element.elementor-element-5fe10e5 .elementor-heading-title{font-family:"Open Sans", Sans-serif;color:#FFFFFF;}.elementor-43 .elementor-element.elementor-element-0eb846d{--divider-border-style:dotted;--divider-color:#BBC7CE;--divider-border-width:2px;}.elementor-43 .elementor-element.elementor-element-0eb846d > .elementor-widget-container{margin:-25px 0px -25px 0px;}.elementor-43 .elementor-element.elementor-element-0eb846d .elementor-divider-separator{width:81%;margin:0 auto;margin-center:0;}.elementor-43 .elementor-element.elementor-element-0eb846d .elementor-divider{text-align:center;padding-block-start:15px;padding-block-end:15px;}@media(min-width:768px){.elementor-43 .elementor-element.elementor-element-32df21f5{width:64%;}.elementor-43 .elementor-element.elementor-element-58d2ac75{width:36%;}}@media(max-width:1024px){.elementor-43 .elementor-element.elementor-element-4c879faf{padding:100px 25px 100px 25px;}.elementor-43 .elementor-element.elementor-element-79c11cce .elementor-heading-title{font-size:30px;}}@media(max-width:767px){.elementor-43 .elementor-element.elementor-element-4c879faf{padding:50px 20px 50px 20px;}.elementor-43 .elementor-element.elementor-element-79c11cce .elementor-heading-title{font-size:18px;line-height:1.3em;}.elementor-43 .elementor-element.elementor-element-fc14ca7 > .elementor-widget-container{margin:-30px 0px 25px 0px;}.elementor-43 .elementor-element.elementor-element-fc14ca7 a.elementor-button, .elementor-43 .elementor-element.elementor-element-fc14ca7 .elementor-button{font-size:11px;}}/* Start custom CSS for html, class: .elementor-element-eab080d */.elementor-button-link {
+    background-color: transparent;
+}/* End custom CSS */</style>		<div data-elementor-type="wp-post" data-elementor-id="43" class="elementor elementor-43" data-elementor-post-type="elementor-hf">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-4c879faf elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c879faf" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-32df21f5" data-id="32df21f5" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-79c11cce elementor-widget elementor-widget-heading" data-id="79c11cce" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Please join the CDS Google group where you can ask questions, post messages, and receive important updates.</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4e5f2ea5 elementor-widget elementor-widget-text-editor" data-id="4e5f2ea5" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><b>Hosted by the College Board.</b></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a2dec7e premium-lq__none elementor-widget elementor-widget-premium-addon-button" data-id="a2dec7e" data-element_type="widget" data-e-type="widget" data-widget_type="premium-addon-button.default">
+				<div class="elementor-widget-container">
+					
+
+		<a class="premium-button premium-button-none premium-btn-lg premium-button-none" href="https://groups.google.com/a/collegeboard.org/forum/#!forum/commondataset">
+			<div class="premium-button-text-icon-wrapper">
+				
+									<span >
+						CDS Google Group					</span>
+							</div>
+
+			
+			
+			
+		</a>
+
+
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5b1a2a0 elementor-widget elementor-widget-text-editor" data-id="5b1a2a0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>See how your school&#8217;s data is used by the CDS publishers. </p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-fc14ca7 elementor-align-left elementor-widget elementor-widget-download-button" data-id="fc14ca7" data-element_type="widget" data-e-type="widget" data-widget_type="download-button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+			<a href="https://commondataset.org/wp-content/uploads/2020/04/Benefits-of-Completing-Publisher-Survey-Data.pdf" class="elementor-button-link elementor-button elementor-size-xs" download="" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-question-circle"></i>			</span>
+						<span class="elementor-button-text">Learn More</span>
+		</span>
+					</a>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-58d2ac75" data-id="58d2ac75" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5fe10e5 elementor-widget elementor-widget-heading" data-id="5fe10e5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">CDS Advisory Board</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0eb846d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0eb846d" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-eab080d elementor-widget elementor-widget-html" data-id="eab080d" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-element elementor-element-69f900b elementor-align-left elementor-widget elementor-widget-button" data-id="69f900b" data-element_type="widget" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+		<div class="elementor-button-wrapper">
+			<a href="mailto:arobinsonspann@collegeboard.org" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+				<span class="elementor-button-content-wrapper">
+					<span class="elementor-button-icon elementor-align-icon-left">
+						<i aria-hidden="true" class="fas fa-mail-bulk"></i> </span>
+					<span class="elementor-button-text">CollegeBoard: Ashley Robinson-Spann</span>
+				</span>
+			</a>
+		</div>
+	</div>
+</div>
+<div class="elementor-element elementor-element-aa2903a elementor-align-left elementor-widget elementor-widget-button" data-id="aa2903a" data-element_type="widget" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+		<div class="elementor-button-wrapper">
+			<a href="mailto:khines@usnews.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+				<span class="elementor-button-content-wrapper">
+					<span class="elementor-button-icon elementor-align-icon-left">
+						<i aria-hidden="true" class="fas fa-mail-bulk"></i> </span>
+					<span class="elementor-button-text">US News &amp; World Report: Kenneth Hines</span>
+				</span>
+			</a>
+		</div>
+	</div>
+</div>
+<div class="elementor-element elementor-element-5ecf9d3 elementor-align-left elementor-widget elementor-widget-button" data-id="5ecf9d3" data-element_type="widget" data-widget_type="button.default">
+	<div class="elementor-widget-container">
+		<div class="elementor-button-wrapper">
+			<a href="mailto:cds@petersons.com" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+				<span class="elementor-button-content-wrapper">
+					<span class="elementor-button-icon elementor-align-icon-left">
+						<i aria-hidden="true" class="fas fa-mail-bulk"></i> </span>
+					<span class="elementor-button-text">Peterson's: Elise Miller McNeely</span>
+				</span>
+			</a>
+		</div>
+	</div>
+</div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div>		</footer>
+	
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/oceanwp/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='pa-glass-css' href='https://commondataset.org/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/liquid-glass.min.css?ver=4.11.82' media='all' />
+<link rel='stylesheet' id='pa-btn-css' href='https://commondataset.org/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/button-line.min.css?ver=4.11.82' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://commondataset.org/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.1.4' media='all' />
+<script id="elementor-webpack-runtime-js" src="https://commondataset.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4"></script>
+<script id="elementor-frontend-modules-js" src="https://commondataset.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4"></script>
+<script id="jquery-ui-core-js" src="https://commondataset.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="elementor-frontend-js-extra">
+var PremiumSettings = {"ajaxurl":"https://commondataset.org/wp-admin/admin-ajax.php","nonce":"ff8c9348e9"};
+var PaBehanceSettings = {"key":"XQhsS66hLTKjUoj8Gky7FOFJxNMh23uu"};
+var PremiumProSettings = {"ajaxurl":"https://commondataset.org/wp-admin/admin-ajax.php","nonce":"6893ec4383","magicSection":"1"};
+//# sourceURL=elementor-frontend-js-extra
+</script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_panel_promotions":true,"theme_builder_v2":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/commondataset.org\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/commondataset.org\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/commondataset.org\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"5d324fedb7","atomicFormsSendForm":"2b4ea2a7c4"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":31,"title":"Home%20-%20Common%20Data%20Set","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://commondataset.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4"></script>
+<script id="pafe-43-js" src="https://commondataset.org/wp-content/uploads/premium-addons-elementor/pafe-43.js?ver=1764177453"></script>
+<script id="imagesloaded-js" src="https://commondataset.org/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"d2984000bb","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","loadMoreLoadingText":"Loading...","ajax_url":"https://commondataset.org/wp-admin/admin-ajax.php","oe_mc_wpnonce":"cfd24fd35d"};
+//# sourceURL=oceanwp-main-js-extra
+</script>
+<script id="oceanwp-main-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.1.6"></script>
+<script id="oceanwp-drop-down-mobile-menu-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.1.6"></script>
+<script id="oceanwp-drop-down-search-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.1.6"></script>
+<script id="ow-magnific-popup-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.1.6"></script>
+<script id="oceanwp-lightbox-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.1.6"></script>
+<script id="ow-flickity-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.1.6"></script>
+<script id="oceanwp-slider-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.1.6"></script>
+<script id="oceanwp-scroll-effect-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.1.6"></script>
+<script id="oceanwp-scroll-top-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.1.6"></script>
+<script id="oceanwp-select-js" src="https://commondataset.org/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.1.6"></script>
+<script id="flickr-widget-script-js-extra">
+var flickrWidgetParams = {"widgets":[]};
+//# sourceURL=flickr-widget-script-js-extra
+</script>
+<script id="flickr-widget-script-js" src="https://commondataset.org/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=a5e3ea6e8c3da6dab89e5dbe8f246bb8"></script>
+<script id="pa-elements-handler-js" src="https://commondataset.org/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js?ver=4.11.82"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://commondataset.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.1.2"></script>
+<script id="wp-hooks-js" src="https://commondataset.org/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://commondataset.org/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/commondataset.org\/wp-admin\/admin-ajax.php","nonce":"78186cae4f","urls":{"assets":"https:\/\/commondataset.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/commondataset.org\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/commondataset.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://commondataset.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.1.2"></script>
+<script id="pro-elements-handlers-js" src="https://commondataset.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.1.2"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://commondataset.org/wp-includes/js/wp-emoji-release.min.js?ver=a5e3ea6e8c3da6dab89e5dbe8f246bb8"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://commondataset.org/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+</html>

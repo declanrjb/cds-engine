@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40a0457e763902ed12097cffc3536f1e9a2306a95a701ab2df18f7d47e2b9c39
-size 470
+<html>
+    <head>
+        <title>Rate limit reached</title>
+    </head>
+    <body>
+        <div style="text-align: center;">
+            <p>
+                You've reached the limit for the number of requests that can be made in a short period of time. Please wait a moment and try again.
+                If you believe this message was shown in error or need assistance, please contact us at Aitratelimit@archive.org
+            </p>
+        </div>
+    </body>
+</html>
