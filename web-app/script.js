@@ -53,7 +53,7 @@ $(document).ready(function(){
 
         if (year in collegeData['years']) {
             $('.doc-embed').attr('src', collegeData['years'][year]['file'])
-            
+
             if ('parsed_tables' in collegeData['years'][year]) {
                 var tables = collegeData['years'][year]['parsed_tables']
                 $.each(tables, function(index, entry) {
@@ -64,6 +64,7 @@ $(document).ready(function(){
                     var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
                 });
                 $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
+                showParsed()
             } else {
                 showRaw()
             }
@@ -103,6 +104,7 @@ $(document).ready(function(){
     console.log(dataUrl)
 
     $.getJSON(dataUrl, function(data) {
+        console.log('inside data load function')
         console.log(data)
         updatePage(data)
 
@@ -114,7 +116,7 @@ $(document).ready(function(){
 
         $('#parsed-file-view').on('click', showParsed)
     });
-    console.log('hello world')
+    console.log('passed data load function')
 
     $('#pagination').css('display', 'none')
 }); 
