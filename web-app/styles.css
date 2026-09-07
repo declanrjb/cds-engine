@@ -203,7 +203,7 @@ h1 {
     width: calc(30% - 43px) !important;
 }
 
-.doc-embed {
+#doc-embed {
     width: 100%;
     min-height: 680px;
     display: none;

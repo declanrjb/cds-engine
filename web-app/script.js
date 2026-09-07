@@ -54,17 +54,9 @@ $(document).ready(function(){
         var year = $('#year-select').val()
 
         if (year in collegeData['years']) {
-            // $('.doc-embed').attr('src', collegeData['years'][year]['file'])
-            var options = {
-                pdfOpenParams: {
-                    page: 1,
-                    view: "Fit",
-                    toolbar: 0
-                },
-                forcePDFJS: true, //*** Forces the use of PDF.js instead of default behavior
-                // PDFJS_URL: "web/viewer.html" //*** Required to use PDF.js
-            };
-            PDFObject.embed(collegeData['years'][year]['file'], "#doc-embed", options);
+            $('#doc-embed').attr('src', collegeData['years'][year]['file'])
+
+            // PDFObject.embed(collegeData['years'][year]['file'], "#doc-embed", options);
 
             if ('parsed_tables' in collegeData['years'][year]) {
                 var tables = collegeData['years'][year]['parsed_tables']
