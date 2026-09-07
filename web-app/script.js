@@ -20,6 +20,22 @@ $(document).ready(function(){
         }
     }
 
+    function showRaw() {
+        console.log('show raw')
+        $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
+        $('#raw-file-view').css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
+        $('.parsed-doc').css('display', 'none')
+        $('.doc-embed').css('display', 'block')
+    }
+
+    function showParsed() {
+        console.log('show parsed')
+        $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
+        $('#parsed-file-view').css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
+        $('.parsed-doc').css('display', 'block')
+        $('.doc-embed').css('display', 'none')
+    }
+
     function updatePage(collegeData) {
         $('.parsed-doc').empty()
         showResults()
@@ -37,15 +53,21 @@ $(document).ready(function(){
 
         if (year in collegeData['years']) {
             $('.doc-embed').attr('src', collegeData['years'][year]['file'])
-            var tables = collegeData['years'][year]['parsed_tables']
-            $.each(tables, function(index, entry) {
-                var data_block = $('<div class="data-block section section-' + entry['section'].toLowerCase() + '"></div>').appendTo('.parsed-doc')
-                var data_heading = $('<div class="data-heading"></div>').appendTo(data_block)
-                var table_code = $('<div class="table-code">' + entry['table_code'] + '</span>').appendTo(data_heading)
-                var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)
-                var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
-            });
-            $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
+            
+            if ('parsed_tables' in collegeData['years'][year]) {
+                var tables = collegeData['years'][year]['parsed_tables']
+                $.each(tables, function(index, entry) {
+                    var data_block = $('<div class="data-block section section-' + entry['section'].toLowerCase() + '"></div>').appendTo('.parsed-doc')
+                    var data_heading = $('<div class="data-heading"></div>').appendTo(data_block)
+                    var table_code = $('<div class="table-code">' + entry['table_code'] + '</span>').appendTo(data_heading)
+                    var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)
+                    var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
+                });
+                $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
+            } else {
+                showRaw()
+            }
+
         } else {
             showNoResults()
         }
@@ -88,19 +110,9 @@ $(document).ready(function(){
             updatePage(data)
         })
 
-        $('#raw-file-view').on('click', function() {
-            $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
-            $(this).css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
-            $('.parsed-doc').css('display', 'none')
-            $('.doc-embed').css('display', 'block')
-        })
+        $('#raw-file-view').on('click', showRaw)
 
-        $('#parsed-file-view').on('click', function() {
-            $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
-            $(this).css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
-            $('.parsed-doc').css('display', 'block')
-            $('.doc-embed').css('display', 'none')
-        })
+        $('#parsed-file-view').on('click', showParsed)
     });
     console.log('hello world')
 
