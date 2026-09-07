@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a79eeceae41e318f4ebfb831c0a65f530d9fcd4b8334a14b3d51d5a8bc4b187b
-size 3594
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+    <meta name="viewport" content="width=438px"/>
+        
+    <title>Web Login Service</title>
+
+    <link rel="stylesheet" type="text/css" href="/idp/css/epass-login-html.css" />
+
+  </head>
+    
+  <body>
+    <div id="login_attached-header"> 
+      <div id="attached-header"></div>
+      <div class="inner-login">
+      <!-- 
+         2014-08-04  Larry   Updated to notfiy users of phishing scheme
+
+                             To enable this div, remove the 'class="plu-its-notice-empty"' attribute.
+                             To disable it, include the attribute.
+      -->
+
+	<!--
+        <div id="plu-its-notice">
+          <a href="https://plu-system-notices.blogspot.com/2026/04/scheduled-campus-network-and-services.html" target="_blank">
+            Planned Network Maintenance - Saturday, April 18
+          </a>
+        </div>
+	-->
+	<div id="plu-its-notice-empty"></div>
+
+
+        <h2 class="title">e<span>Pass</span></h2>
+
+        <form id="plu-login" action="/idp/profile/SAML2/Redirect/SSO?execution=e1s1" method="post">
+
+          <div id="form-wrapper">            
+              <label for="username"><span class="accesskey">U</span>sername:</label>
+              <input id="username" name="j_username" tabindex="1" onkeypress="keyPress(event);" autofocus="true" required="true" accesskey="u" type="text" value="" autocomplete="false"/>
+            
+              <p>Enter your username.</p>
+              <label for="password" ><span class="accesskey">P</span>assword:</label>
+            
+              <input id="password" name="j_password" tabindex="2" onkeypress="keyPress(event);" required="true" accesskey="p" type="password" value="" autocomplete="off"/> 
+              <p class="decrease-btm-padding">Enter your password.</p>
+
+	      <!--
+              <p>
+                <input type="checkbox" name="donotcache" value="1"/> Don't Remember Login
+	      </p>
+	      -->	      
+
+	    <!--
+	    <p>
+              <input id="_shib_idp_revokeConsent" type="checkbox" name="_shib_idp_revokeConsent" value="true"/>
+Clear prior granting of permission for release of your information to this service.	    </p>
+	    -->
+
+              <div align="right">
+                <button id="signin" class="button gold glow" class="button gold glow" type="submit" accesskey="l" tabindex="5" name="_eventId_proceed"
+                    onClick="if (document.getElementById('username').value !== '' && document.getElementById('password').value !== '') { this.childNodes[0].nodeValue='Logging in, please wait...' }"
+                    >Login</button>
+              </div>       
+
+          </div> <!-- form-wrapper -->
+
+          <div id="login-sidebar">
+            <div id="error-wrapper">  
+
+            </div>
+
+            <div id="related-links">       
+              <ul>
+                <li>RELATED LINKS</li>
+                <li><a href="https://www.plu.edu/status/">System Status</a></li>
+                <li><a href="https://epass.plu.edu/epass-account-reset/action/REQUEST">Claim Account</a></li>
+                <li><a href="https://epass.plu.edu/epass-account-reset/action/RESET">Reset Password</a></li>
+                <li><a href="http://www.plu.edu/helpdesk/">Get Help</a></li>
+              </ul>    
+            </div>
+          </div> <!-- login-sidebar --> 
+        </form>
+      </div> <!-- inner-login -->
+    </div> <!-- login_attached-header -->
+  </body>
+</html>
