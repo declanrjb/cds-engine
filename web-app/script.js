@@ -8,7 +8,7 @@ $(document).ready(function(){
         if ($('#parsed-file-view').attr('selected') == 'selected'){
             $('.parsed-doc').css('display', 'none')
         } else {
-            $('.doc-embed').css('display', 'none')
+            $('#doc-embed').css('display', 'none')
         }
     }
 
@@ -18,7 +18,7 @@ $(document).ready(function(){
         if ($('#parsed-file-view').attr('selected') == 'selected'){
             $('.parsed-doc').css('display', 'block')
         } else {
-            $('.doc-embed').css('display', 'block')
+            $('#doc-embed').css('display', 'block')
         }
     }
 
@@ -27,7 +27,7 @@ $(document).ready(function(){
         $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
         $('#raw-file-view').css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
         $('.parsed-doc').css('display', 'none')
-        $('.doc-embed').css('display', 'block')
+        $('#doc-embed').css('display', 'block')
     }
 
     function showParsed() {
@@ -35,7 +35,7 @@ $(document).ready(function(){
         $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
         $('#parsed-file-view').css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
         $('.parsed-doc').css('display', 'block')
-        $('.doc-embed').css('display', 'none')
+        $('#doc-embed').css('display', 'none')
     }
 
     function updatePage(collegeData) {

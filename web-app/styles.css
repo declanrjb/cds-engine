@@ -242,15 +242,14 @@ h1 {
 }
 
 .view-type-selector {
-    height: fit-content;
-    width: 20px;
-    float: right;
+    height: 100px;
+    width: 50px;
     border-radius: 10px;
     background-color: white;
     background: white;
     position: relative;
     z-index: 99;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .big-number {
@@ -265,4 +264,23 @@ a {
 
 a:hover {
     color: black;
+}
+
+.kofi-button {
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background-color: #72a4f2;
+    position: relative;
+    transition: border-radius 0.2s;
+}
+
+.kofi-button:hover {
+    border-radius: 10px;
+}
+
+.kofi-icon {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 28%;
 }
