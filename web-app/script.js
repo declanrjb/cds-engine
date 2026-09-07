@@ -100,7 +100,7 @@ $(document).ready(function(){
 
     // 2. Parse the parameters using URLSearchParams
     const urlParams = new URLSearchParams(queryString);
-    var dataUrl = 'https://raw.githubusercontent.com/declanrjb/cds-engine/refs/heads/main/web-app/colleges/' + urlParams.get('unitid') + '.json?token=GHSAT0AAAAAADWYNHABTTWTSQSJFLCLHVOA2U6ROEQ'
+    var dataUrl = 'https://raw.githubusercontent.com/declanrjb/cds-engine/refs/heads/main/web-app/colleges/' + urlParams.get('unitid') + '.json'
     console.log(dataUrl)
 
     $.getJSON(dataUrl, function(data) {
