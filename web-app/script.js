@@ -23,7 +23,6 @@ $(document).ready(function(){
     }
 
     function showRaw() {
-        console.log('show raw')
         $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
         $('#raw-file-view').css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
         $('.parsed-doc').css('display', 'none')
@@ -31,7 +30,6 @@ $(document).ready(function(){
     }
 
     function showParsed() {
-        console.log('show parsed')
         $('.view-button').css('background-color', 'white').css('color', 'black').removeAttr('selected')
         $('#parsed-file-view').css('background-color', 'black').css('color', 'white').attr('selected', 'selected')
         $('.parsed-doc').css('display', 'block')
@@ -104,12 +102,17 @@ $(document).ready(function(){
 
     // 2. Parse the parameters using URLSearchParams
     const urlParams = new URLSearchParams(queryString);
-    var dataUrl = 'https://raw.githubusercontent.com/declanrjb/cds-engine/refs/heads/main/web-app/colleges/' + urlParams.get('unitid') + '.json'
-    console.log(dataUrl)
+    var unitid;
+    if (!urlParams.get('unitid')) {
+        unitid = '110592'
+    } else {
+        unitid = urlParams.get('unitid')
+    }
+
+    var dataUrl = 'https://declanrjb.github.io/cds-engine/web-app/colleges/' + unitid + '.json'
+
 
     $.getJSON(dataUrl, function(data) {
-        console.log('inside data load function')
-        console.log(data)
         updatePage(data)
 
         $('#year-select').on('selectmenuchange', function(e) {
