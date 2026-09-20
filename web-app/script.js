@@ -54,8 +54,6 @@ $(document).ready(function(){
         if (year in collegeData['years']) {
             $('#doc-embed').attr('src', collegeData['years'][year]['file'])
 
-            // PDFObject.embed(collegeData['years'][year]['file'], "#doc-embed", options);
-
             if ('parsed_tables' in collegeData['years'][year]) {
                 var tables = collegeData['years'][year]['parsed_tables']
                 $.each(tables, function(index, entry) {
@@ -65,9 +63,11 @@ $(document).ready(function(){
                     var table_name = $('<div class="table-title">' + entry['table_title'] + '</span>').appendTo(data_heading)
                     var data_table = $('<div class="data-table">' + entry['table_html'] + '</div>').appendTo(data_block)
                 });
-                // $('.separator').append('<div class="download-button">Download <i class="fa-solid fa-download"></i></div>')
                 showParsed()
             } else {
+                console.log('hiding parsed file view')
+                $('#parsed-file-view').css('display', 'none')
+                $('.view-type-selector').css('height', 50)
                 showRaw()
             }
 
