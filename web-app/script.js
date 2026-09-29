@@ -77,7 +77,7 @@ $(document).ready(function(){
     }
 
     function selectiveDisplaySection(section) {
-        if (section == 'section-All Sections') {
+        if (section == 'section-all sections') {
             $('.section').css('display', 'block')
         } else {
             $('.section').css('display', 'none')
