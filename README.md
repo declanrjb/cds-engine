@@ -2,8 +2,6 @@
 
 The Common Data Set (CDS) is a collection of standardized metrics published by both private and public colleges across the United States. The CDS contains data found nowhere else, from admissions statistics to financial aid numbers, but remains locked in a byzantine system of distribution that makes it difficult for education reporters and researchers to access. This database and associated search engine is an attempt to bring these valuable documents into the public domain and encourage their use in education reporting.
 
-<div class="flourish-embed flourish-table" data-src="visualisation/29919197"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29919197/thumbnail" width="100%" alt="table visualization" /></noscript></div>
-
 # Methodology
 
 Below, we present key parts of the code used to acquire these documents and generate the search engine. For complete working code, see [notebooks](./notebooks).
